@@ -41,8 +41,6 @@ style: |
 - 主频与睿频：基础性能与突发性能
 - 功耗与散热：性能与便携性平衡
 
-![CPU参数说明](/assets/images/cpu-specs.jpg)
-
 ---
 
 ### CPU选购建议
@@ -177,7 +175,7 @@ style: |
 - 独显优势：强大性能
 - 双显卡切换技术
 
-![显卡对比](/assets/images/gpu-comparison.jpg)
+![显卡对比](/assets/images/gpu-comparison.webp)
 
 ---
 
