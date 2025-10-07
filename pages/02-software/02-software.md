@@ -2,6 +2,7 @@
 marp: true
 theme: default
 paginate: true
+transition: fade
 style: |
   section {
     background-color: #ffffff;
