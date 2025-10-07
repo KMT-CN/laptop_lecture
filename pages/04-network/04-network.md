@@ -50,7 +50,7 @@ VPN服务|校外访问|L2TP/IPSec
 ## 4.2 校园VPN服务
 
 ### VPN配置教程
----
+
 #### Windows系统配置
 首次使用SSL VPN，请先安装插件。具体方法见：SSL VPN插件安装步骤
 
