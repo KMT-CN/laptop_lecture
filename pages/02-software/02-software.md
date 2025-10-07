@@ -2,6 +2,7 @@
 marp: true
 theme: default
 paginate: true
+transition: fade
 style: |
   section {
     background-color: #ffffff;
@@ -21,7 +22,7 @@ style: |
 
 ## 校园软件资源指南
 
-![软件资源概览](../assets/images/software-overview.jpg)
+![软件资源概览](/assets/images/software-overview.jpg)
 
 ---
 
@@ -31,7 +32,7 @@ style: |
 - 正版软件服务平台
 - 校园网统一认证
 
-![校园软件平台](../assets/images/campus-software.jpg)
+![校园软件平台](/assets/images/campus-software.jpg)
 
 ---
 
@@ -43,7 +44,7 @@ style: |
 4. 下载安装包
 5. 获取授权
 
-![获取流程](../assets/images/download-process.jpg)
+![获取流程](/assets/images/download-process.jpg)
 
 ---
 
@@ -85,7 +86,7 @@ style: |
 - Teams协作工具
 - 正版授权保障
 
-![Office套件](../assets/images/office-suite.jpg)
+![Office套件](/assets/images/office-suite.jpg)
 
 ---
 
@@ -97,7 +98,7 @@ style: |
 - 示例代码库
 - 中文界面支持
 
-![MATLAB界面](../assets/images/matlab-interface.jpg)
+![MATLAB界面](/assets/images/matlab-interface.jpg)
 
 ---
 
@@ -143,7 +144,7 @@ style: |
 - 在线社区支持
 - 示例程序库
 
-![学习资源](../assets/images/matlab-learning.jpg)
+![学习资源](/assets/images/matlab-learning.jpg)
 
 ---
 
@@ -155,7 +156,7 @@ style: |
 - Word插件支持
 - 在线同步功能
 
-![EndNote使用](../assets/images/endnote-usage.jpg)
+![EndNote使用](/assets/images/endnote-usage.jpg)
 
 ---
 
@@ -165,7 +166,7 @@ style: |
 - 多平台支持
 - 群组协作
 
-![Zotero功能](../assets/images/zotero-features.jpg)
+![Zotero功能](/assets/images/zotero-features.jpg)
 
 ---
 
@@ -175,7 +176,7 @@ style: |
 - 推荐系统
 - 免费存储空间
 
-![Mendeley界面](../assets/images/mendeley-interface.jpg)
+![Mendeley界面](/assets/images/mendeley-interface.jpg)
 
 ---
 
@@ -187,7 +188,7 @@ style: |
 - 云同步功能
 - 签名工具
 
-![Adobe Reader](../assets/images/adobe-reader.jpg)
+![Adobe Reader](/assets/images/adobe-reader.jpg)
 
 ---
 
@@ -199,7 +200,7 @@ style: |
 - 过滤规则
 - 性能优化
 
-![广告拦截](../assets/images/ad-blocking.jpg)
+![广告拦截](/assets/images/ad-blocking.jpg)
 
 ---
 
@@ -209,7 +210,7 @@ style: |
 - 网页实时翻译
 - PDF翻译功能
 
-![翻译插件](../assets/images/translation-tools.jpg)
+![翻译插件](/assets/images/translation-tools.jpg)
 
 ---
 
@@ -219,7 +220,7 @@ style: |
 - Evernote剪藏
 - 高亮标注工具
 
-![网页剪藏](../assets/images/web-clipper.jpg)
+![网页剪藏](/assets/images/web-clipper.jpg)
 
 ---
 
@@ -231,7 +232,7 @@ style: |
 - 文件预览
 - 快捷操作
 
-![Everything](../assets/images/everything-search.jpg)
+![Everything](/assets/images/everything-search.jpg)
 
 ---
 
@@ -241,7 +242,7 @@ style: |
 - 大文件识别
 - 重复文件查找
 
-![WizTree分析](../assets/images/wiztree-analysis.jpg)
+![WizTree分析](/assets/images/wiztree-analysis.jpg)
 
 ---
 
@@ -251,7 +252,7 @@ style: |
 - 便携软件
 - 批量处理
 
-![Geek工具](../assets/images/geek-uninstaller.jpg)
+![Geek工具](/assets/images/geek-uninstaller.jpg)
 
 ---
 
@@ -263,7 +264,7 @@ style: |
 - 勒索防护
 - 性能影响小
 
-![Defender设置](../assets/images/defender-settings.jpg)
+![Defender设置](/assets/images/defender-settings.jpg)
 
 ---
 
@@ -273,7 +274,7 @@ style: |
 - 启动项管理
 - 软件管家
 
-![火绒功能](../assets/images/huorong-features.jpg)
+![火绒功能](/assets/images/huorong-features.jpg)
 
 ---
 
@@ -283,4 +284,4 @@ style: |
 - 云端备份
 - 增量备份
 
-![备份方案](../assets/images/backup-strategy.jpg)
+![备份方案](/assets/images/backup-strategy.jpg)
