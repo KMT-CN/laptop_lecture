@@ -49,12 +49,32 @@ style: |
 
 ### 常见问题解决
 
-问题|解决方案|备注
----|---|---
-无法登录|检查校园网|需要内网环境
-下载失败|使用专用客户端|提供断点续传
-授权过期|重新激活|每年需要更新
-
+<table>
+  <thead>
+    <tr>
+      <th>问题</th>
+      <th>解决方案</th>
+      <th>备注</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>无法登录</td>
+      <td>检查校园网</td>
+      <td>需要内网环境</td>
+    </tr>
+    <tr>
+      <td>下载失败</td>
+      <td>使用专用客户端</td>
+      <td>提供断点续传</td>
+    </tr>
+    <tr>
+      <td>授权过期</td>
+      <td>重新激活</td>
+      <td>每年需要更新</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 2.2 Microsoft Office 365
@@ -83,13 +103,37 @@ style: |
 
 ### 常用工具箱
 
-工具箱|应用领域|典型用途
----|---|---
-Signal Processing|信号处理|波形分析
-Image Processing|图像处理|图片增强
-Statistics|统计分析|数据建模
-Neural Network|神经网络|深度学习
-
+<table>
+  <thead>
+    <tr>
+      <th>工具箱</th>
+      <th>应用领域</th>
+      <th>典型用途</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Signal Processing</td>
+      <td>信号处理</td>
+      <td>波形分析</td>
+    </tr>
+    <tr>
+      <td>Image Processing</td>
+      <td>图像处理</td>
+      <td>图片增强</td>
+    </tr>
+    <tr>
+      <td>Statistics</td>
+      <td>统计分析</td>
+      <td>数据建模</td>
+    </tr>
+    <tr>
+      <td>Neural Network</td>
+      <td>神经网络</td>
+      <td>深度学习</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ### 学习资源

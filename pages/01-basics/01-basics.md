@@ -47,20 +47,45 @@ style: |
 
 ### CPU选购建议
 
-专业方向|推荐配置|预算区间
----|---|---
-普通办公文档|i5/锐龙5|3000-4500
-设计制图|i7/锐龙7|5000-8000
-编程开发|i7+/锐龙7+|6000-10000
-
+<table>
+  <thead>
+    <tr>
+      <th>专业方向</th>
+      <th>推荐配置</th>
+      <th>预算区间</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>普通办公文档</td>
+      <td>i5/锐龙5</td>
+      <td>3000-4500</td>
+    </tr>
+    <tr>
+      <td>设计制图</td>
+      <td>i7/锐龙7</td>
+      <td>5000-8000</td>
+    </tr>
+    <tr>
+      <td>编程开发</td>
+      <td>i7+/锐龙7+</td>
+      <td>6000-10000</td>
+    </tr>
+    <tr>
+      <td>极致の打电动</td>
+      <td>i9+/锐龙9+</td>
+      <td>10000+</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 1.2 内存（RAM）详解
 
 ### 内存容量选择
-- 8GB：基础办公起点
-- 16GB：主流推荐配置
-- 32GB：专业工作站配置
+- 16GB：基础办公起点
+- 32GB：主流推荐配置
+- 64GB：专业工作站配置
 
 ![内存条示意图](../assets/images/ram-modules.jpg)
 
@@ -72,20 +97,40 @@ style: |
 - 频率与延迟
 - 单通道与双通道
 
-使用场景|推荐容量|类型建议
----|---|---
-日常办公|8-16GB|DDR4
-游戏娱乐|16-32GB|DDR4/DDR5
-专业创作|32GB+|DDR5
-
+<table>
+  <thead>
+    <tr>
+      <th>使用场景</th>
+      <th>推荐容量</th>
+      <th>类型建议</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>日常办公</td>
+      <td>8-16GB</td>
+      <td>DDR4</td>
+    </tr>
+    <tr>
+      <td>游戏娱乐</td>
+      <td>16-32GB</td>
+      <td>DDR4/DDR5</td>
+    </tr>
+    <tr>
+      <td>专业创作</td>
+      <td>32GB+</td>
+      <td>DDR5</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 1.3 存储设备详解
 
 ### 硬盘类型对比
-- 机械硬盘（HDD）：大容量，低成本
+- ~~机械硬盘（HDD）：大容量，低成本~~ (笔记本上少见)
 - 固态硬盘（SSD）：高速度，高稳定性
-- 混合部署：系统SSD + 数据HDD
+- 混合部署：系统SSD + 数据HDD (适合对存储速度和容量都有要求的情况)
 
 ![存储设备对比](../assets/images/storage-comparison.jpg)
 
@@ -93,12 +138,36 @@ style: |
 
 ### SSD详细规格
 
-接口类型|读取速度|写入速度|价格区间
----|---|---|---
-SATA|550MB/s|500MB/s|较低
-PCIe 3.0|3500MB/s|3000MB/s|中等
-PCIe 4.0|7000MB/s|6000MB/s|较高
-
+<table>
+  <thead>
+    <tr>
+      <th>接口类型</th>
+      <th>读取速度</th>
+      <th>写入速度</th>
+      <th>价格区间</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SATA</td>
+      <td>550MB/s</td>
+      <td>500MB/s</td>
+      <td>较低</td>
+    </tr>
+    <tr>
+      <td>PCIe 3.0</td>
+      <td>3500MB/s</td>
+      <td>3000MB/s</td>
+      <td>中等</td>
+    </tr>
+    <tr>
+      <td>PCIe 4.0</td>
+      <td>7000MB/s</td>
+      <td>6000MB/s</td>
+      <td>较高</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 1.4 显卡选择
@@ -126,13 +195,37 @@ PCIe 4.0|7000MB/s|6000MB/s|较高
 
 ### Type-C接口详解
 
-功能|支持情况|备注
----|---|---
-供电|最高240W|需要PD协议
-显示|最高8K@60Hz|需要DP Alt Mode
-数据|最高40Gbps|雷电4规格
-扩展坞|一线多用|功能因机型而异
-
+<table>
+  <thead>
+    <tr>
+      <th>功能</th>
+      <th>支持情况</th>
+      <th>备注</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>供电</td>
+      <td>最高240W</td>
+      <td>需要PD协议</td>
+    </tr>
+    <tr>
+      <td>显示</td>
+      <td>最高8K@60Hz</td>
+      <td>需要DP Alt Mode</td>
+    </tr>
+    <tr>
+      <td>数据</td>
+      <td>最高40Gbps</td>
+      <td>雷电4规格</td>
+    </tr>
+    <tr>
+      <td>扩展坞</td>
+      <td>一线多用</td>
+      <td>功能因机型而异</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ### 扩展坞选购指南
@@ -169,12 +262,32 @@ PCIe 4.0|7000MB/s|6000MB/s|较高
 
 ### 系统版本选择
 
-版本|特色功能|适用人群
----|---|---
-家庭版|基础功能|普通用户
-专业版|远程桌面|企业用户
-教育版|特殊授权|在校师生
-
+<table>
+  <thead>
+    <tr>
+      <th>版本</th>
+      <th>特色功能</th>
+      <th>适用人群</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>家庭版</td>
+      <td>基础功能</td>
+      <td>普通用户</td>
+    </tr>
+    <tr>
+      <td>专业版</td>
+      <td>远程桌面</td>
+      <td>企业用户</td>
+    </tr>
+    <tr>
+      <td>教育版</td>
+      <td>特殊授权</td>
+      <td>在校师生</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 1.7 系统安装指南
@@ -229,12 +342,32 @@ PCIe 4.0|7000MB/s|6000MB/s|较高
 
 ### 系统备份策略
 
-类型|周期|工具
----|---|---
-系统还原点|每周|系统工具
-完整备份|每月|第三方工具
-文件备份|实时|云同步
-
+<table>
+  <thead>
+    <tr>
+      <th>类型</th>
+      <th>周期</th>
+      <th>工具</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>系统还原点</td>
+      <td>每周</td>
+      <td>系统工具</td>
+    </tr>
+    <tr>
+      <td>完整备份</td>
+      <td>每月</td>
+      <td>第三方工具</td>
+    </tr>
+    <tr>
+      <td>文件备份</td>
+      <td>实时</td>
+      <td>云同步</td>
+    </tr>
+  </tbody>
+</table>
 ![备份策略](../assets/images/backup.jpg)
 
 ---

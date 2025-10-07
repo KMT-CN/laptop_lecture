@@ -44,11 +44,32 @@ style: |
 
 ### 网络认证方式
 
-类型|使用场景|认证方式
----|---|---
-有线网络|宿舍/教室|Web认证
-无线网络|公共区域|Web认证
-VPN服务|校外访问|L2TP/IPSec
+<table>
+  <thead>
+    <tr>
+      <th>类型</th>
+      <th>使用场景</th>
+      <th>认证方式</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>有线网络</td>
+      <td>宿舍/教室</td>
+      <td>Web认证</td>
+    </tr>
+    <tr>
+      <td>无线网络</td>
+      <td>公共区域</td>
+      <td>Web认证</td>
+    </tr>
+    <tr>
+      <td>VPN服务</td>
+      <td>校外访问</td>
+      <td>L2TP/IPSec</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -99,11 +120,32 @@ VPN服务|校外访问|L2TP/IPSec
 
 ### 文献下载加速
 
-方法|优点|注意事项
----|---|---
-校园VPN|官方支持|需要申请
-镜像站点|速度快|资源可能滞后
-代理服务|便捷使用|需要配置
+<table>
+  <thead>
+    <tr>
+      <th>方法</th>
+      <th>优点</th>
+      <th>注意事项</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>校园VPN</td>
+      <td>官方支持</td>
+      <td>需要申请</td>
+    </tr>
+    <tr>
+      <td>镜像站点</td>
+      <td>速度快</td>
+      <td>资源可能滞后</td>
+    </tr>
+    <tr>
+      <td>代理服务</td>
+      <td>便捷使用</td>
+      <td>需要配置</td>
+    </tr>
+  </tbody>
+</table>
 
 ![](/assets/images/download-acceleration.jpg)
 
