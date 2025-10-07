@@ -2,6 +2,7 @@
 marp: true
 theme: default
 paginate: true
+transition: fade
 style: |
   section {
     background-color: #ffffff;
@@ -10,10 +11,14 @@ style: |
   img {
     display: block;
     margin: auto;
+    max-width: 100%;
     max-height: 450px;
   }
   .small-text {
     font-size: 0.8em;
+  }
+  .half-size {
+    transform: scale(0.5);
   }
 ---
 
@@ -21,7 +26,7 @@ style: |
 
 ## 校园网络服务概述
 
-![网络服务概览](../assets/images/network-services.jpg)
+![网络服务概览](/assets/images/network-services.jpg){.half-size}
 
 ---
 
@@ -33,7 +38,7 @@ style: |
 - 统一认证
 - 带宽分配
 
-![网络架构图](../assets/images/network-architecture.jpg)
+![网络架构图](/assets/images/network-architecture.jpg){.half-size}
 
 ---
 
@@ -55,18 +60,17 @@ VPN服务|校外访问|L2TP/IPSec
 首次使用SSL VPN，请先安装插件。具体方法见：SSL VPN插件安装步骤
 
 方法一 网页端（推荐使用）：输入网址 https://vpnmotion.buct.edu.cn，用户可自主选择一种方法登录。
-登录方法一：企业微信扫码登录；
-登录方法二：统一身份认证账号密码+手机短信验证进行登录。
+登录方法一：企业微信扫码登录；   
+登录方法二：统一身份认证账号密码+手机短信验证进行登录。   
 
 登录后如下图，点击“启动连接”。在电脑的任务栏看到大红A的图标，表示VPN已经连接成功。
-![](../assets/images/vpn-windows1.jpg)
+![](/assets/images/vpn-windows1.jpg)
 
 方法二 客户端
 第一步 配置已安装的VPN客户端（如下图）
 
 第二步 双击保存的站点进行vpn连接，在任务栏能看到大红A，表示连接VPN成功。
-![](../assets/images/vpn-windows2.jpg)
-
+![](/assets/images/vpn-windows2.jpg)
 
 ---
 
@@ -76,7 +80,7 @@ VPN服务|校外访问|L2TP/IPSec
 3. 填写账号信息
 4. 测试连接
 
-![移动VPN配置](../assets/images/vpn-mobile.jpg)
+![](/assets/images/vpn-mobile.jpg)
 
 ---
 
@@ -89,7 +93,7 @@ VPN服务|校外访问|L2TP/IPSec
 - IEEE文献下载
 - ScienceDirect设置
 
-![数据库访问](../assets/images/library-resources.jpg)
+![](/assets/images/library-resources.jpg)
 
 ---
 
@@ -101,7 +105,7 @@ VPN服务|校外访问|L2TP/IPSec
 镜像站点|速度快|资源可能滞后
 代理服务|便捷使用|需要配置
 
-![下载加速](../assets/images/download-acceleration.jpg)
+![](/assets/images/download-acceleration.jpg)
 
 ---
 
@@ -113,7 +117,7 @@ VPN服务|校外访问|L2TP/IPSec
 - 远程开机
 - 移动端支持
 
-![Todesk功能](../assets/images/sunlogin-features.jpg)
+![](/assets/images/sunlogin-features.jpg)
 
 ---
 
@@ -123,7 +127,7 @@ VPN服务|校外访问|L2TP/IPSec
 - 端到端加密
 - 跨平台支持
 
-![RustDesk界面](../assets/images/rustdesk-interface.jpg)
+![](/assets/images/rustdesk-interface.png)
 
 ---
 
@@ -133,7 +137,7 @@ VPN服务|校外访问|L2TP/IPSec
 - 本地资源映射
 - 多显示器支持
 
-![远程桌面设置](../assets/images/rdp-settings.jpg)
+![](/assets/images/rdp-settings.png)
 
 ---
 
@@ -145,11 +149,12 @@ VPN服务|校外访问|L2TP/IPSec
 - Pull Request
 - Issue跟踪
 
-![GitHub使用](../assets/images/github-basics.jpg)
+![](/assets/images/github-basics.jpg)
 
 ---
 
 ### Git基础操作
+
 ```bash
 git init            # 初始化仓库
 git add .           # 暂存更改
@@ -157,7 +162,7 @@ git commit -m "msg" # 提交更改
 git push           # 推送到远程
 ```
 
-![Git工作流](../assets/images/git-workflow.jpg)
+![](/assets/images/git-workflow.jpg)
 
 ---
 
@@ -169,7 +174,7 @@ git push           # 推送到远程
 - 频段选择
 - 信道优化
 
-![路由器设置](../assets/images/router-settings.jpg)
+![](/assets/images/router-settings.jpg)
 
 ---
 
@@ -179,18 +184,43 @@ git push           # 推送到远程
 - 家长控制
 - 防火墙规则
 
-![高级配置](../assets/images/advanced-settings.jpg)
+![](/assets/images/advanced-settings.jpg)
 
 ---
 
 ### IPv6配置指南
 
-步骤|操作|说明
----|---|---
-检查支持|运营商咨询|确认是否支持
-系统设置|开启IPv6|系统网络设置
-路由器配置|IPv6转发|路由器后台设置
-测试连接|测试网站|验证IPv6连接
+<table>
+  <thead>
+    <tr>
+      <th>步骤</th>
+      <th>操作</th>
+      <th>说明</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>检查支持</td>
+      <td>运营商咨询</td>
+      <td>确认是否支持</td>
+    </tr>
+    <tr>
+      <td>系统设置</td>
+      <td>开启IPv6</td>
+      <td>系统网络设置</td>
+    </tr>
+    <tr>
+      <td>路由器配置</td>
+      <td>IPv6转发</td>
+      <td>路由器后台设置</td>
+    </tr>
+    <tr>
+      <td>测试连接</td>
+      <td>测试网站</td>
+      <td>验证IPv6连接</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -202,7 +232,7 @@ git push           # 推送到远程
 - 网络发现
 - 访问控制
 
-![文件共享](../assets/images/file-sharing.jpg)
+![](/assets/images/file-sharing.jpg)
 
 ---
 
@@ -212,7 +242,7 @@ git push           # 推送到远程
 - 权限管理
 - 打印队列
 
-![打印机共享](../assets/images/printer-sharing.jpg)
+![](/assets/images/printer-sharing.jpg)
 
 ---
 
@@ -222,7 +252,7 @@ git push           # 推送到远程
 - 备份策略
 - 远程访问
 
-![NAS系统](../assets/images/nas-system.jpg)
+![](/assets/images/nas-system.jpg)
 
 ---
 
@@ -234,7 +264,7 @@ git push           # 推送到远程
 - 开启防火墙
 - 监控连接设备
 
-![安全设置](../assets/images/security-settings.jpg)
+![](/assets/images/security-settings.jpg)
 
 ---
 
@@ -244,4 +274,4 @@ git push           # 推送到远程
 - 访问控制
 - 日志审计
 
-![高级安全](../assets/images/advanced-security.jpg)
+![](/assets/images/advanced-security.jpg)
