@@ -20,7 +20,7 @@ style: |
 # 第一章：笔记本基础与系统认知
 ## 笔记本选购与硬件认知指南
 
-![笔记本电脑概览](../assets/images/laptop-overview.jpg)
+![笔记本电脑概览](/assets/images/laptop-overview.webp)
 
 ---
 
@@ -31,7 +31,7 @@ style: |
 - AMD系列：锐龙3、5、7、9性能对比
 - Apple Silicon：M1/M2芯片特点
 
-![处理器性能对比](../assets/images/cpu-comparison.jpg)
+![处理器性能对比](/assets/images/cpu-comparison.jpg)
 
 ---
 
@@ -41,7 +41,7 @@ style: |
 - 主频与睿频：基础性能与突发性能
 - 功耗与散热：性能与便携性平衡
 
-![CPU参数说明](../assets/images/cpu-specs.jpg)
+![CPU参数说明](/assets/images/cpu-specs.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ style: |
 - 32GB：主流推荐配置
 - 64GB：专业工作站配置
 
-![内存条示意图](../assets/images/ram-modules.jpg)
+![内存条示意图](/assets/images/ram-modules.jpg)
 
 ---
 
@@ -132,7 +132,7 @@ style: |
 - 固态硬盘（SSD）：高速度，高稳定性
 - 混合部署：系统SSD + 数据HDD (适合对存储速度和容量都有要求的情况)
 
-![存储设备对比](../assets/images/storage-comparison.jpg)
+![存储设备对比](/assets/images/storage-comparison.jpg)
 
 ---
 
@@ -177,7 +177,7 @@ style: |
 - 独显优势：强大性能
 - 双显卡切换技术
 
-![显卡对比](../assets/images/gpu-comparison.jpg)
+![显卡对比](/assets/images/gpu-comparison.jpg)
 
 ---
 
@@ -189,7 +189,7 @@ style: |
 - USB 3.2：20Gbps
 - USB4：40Gbps
 
-![USB接口类型](../assets/images/usb-ports.jpg)
+![USB接口类型](/assets/images/usb-ports.jpg)
 
 ---
 
@@ -240,7 +240,7 @@ style: |
 - 千兆网口
 - PD快充协议
 
-![扩展坞示例](../assets/images/dock-station.jpg)
+![扩展坞示例](/assets/images/dock-station.jpg)
 
 ---
 
@@ -256,7 +256,7 @@ style: |
 - 安全性提升
 - 性能优化
 
-![系统对比](../assets/images/windows-comparison.jpg)
+![系统对比](/assets/images/windows-comparison.jpg)
 
 ---
 
@@ -298,7 +298,7 @@ style: |
 3. 下载系统镜像
 4. 制作启动盘
 
-![安装准备](../assets/images/system-install.jpg)
+![安装准备](/assets/images/system-install.jpg)
 
 ---
 
@@ -314,7 +314,7 @@ style: |
    - 数据分区
    - 恢复分区
 
-![分区设置](../assets/images/partition-setup.jpg)
+![分区设置](/assets/images/partition-setup.jpg)
 
 ---
 
@@ -324,7 +324,7 @@ style: |
 - KMS服务器激活
 - 数字权利激活
 
-![激活方式](../assets/images/activation.jpg)
+![激活方式](/assets/images/activation.jpg)
 
 ---
 
@@ -336,7 +336,7 @@ style: |
 - 软件更新：定期
 - 病毒扫描：每周
 
-![维护计划](../assets/images/maintenance.jpg)
+![维护计划](/assets/images/maintenance.jpg)
 
 ---
 
@@ -368,7 +368,7 @@ style: |
     </tr>
   </tbody>
 </table>
-![备份策略](../assets/images/backup.jpg)
+![备份策略](/assets/images/backup.jpg)
 
 ---
 
@@ -379,4 +379,4 @@ style: |
 - 磁盘碎片整理
 - 驱动程序更新
 
-![系统优化](../assets/images/optimization.jpg)
+![系统优化](/assets/images/optimization.jpg)

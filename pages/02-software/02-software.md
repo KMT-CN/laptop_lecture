@@ -21,7 +21,7 @@ style: |
 
 ## 校园软件资源指南
 
-![软件资源概览](../assets/images/software-overview.jpg)
+![软件资源概览](/assets/images/software-overview.jpg)
 
 ---
 
@@ -31,7 +31,7 @@ style: |
 - 正版软件服务平台
 - 校园网统一认证
 
-![校园软件平台](../assets/images/campus-software.jpg)
+![校园软件平台](/assets/images/campus-software.jpg)
 
 ---
 
@@ -43,38 +43,18 @@ style: |
 4. 下载安装包
 5. 获取授权
 
-![获取流程](../assets/images/download-process.jpg)
+![获取流程](/assets/images/download-process.jpg)
 
 ---
 
 ### 常见问题解决
 
-<table>
-  <thead>
-    <tr>
-      <th>问题</th>
-      <th>解决方案</th>
-      <th>备注</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>无法登录</td>
-      <td>检查校园网</td>
-      <td>需要内网环境</td>
-    </tr>
-    <tr>
-      <td>下载失败</td>
-      <td>使用专用客户端</td>
-      <td>提供断点续传</td>
-    </tr>
-    <tr>
-      <td>授权过期</td>
-      <td>重新激活</td>
-      <td>每年需要更新</td>
-    </tr>
-  </tbody>
-</table>
+问题|解决方案|备注
+---|---|---
+无法登录|检查校园网|需要内网环境
+下载失败|使用专用客户端|提供断点续传
+授权过期|重新激活|每年需要更新
+
 ---
 
 ## 2.2 Microsoft Office 365
@@ -85,7 +65,7 @@ style: |
 - Teams协作工具
 - 正版授权保障
 
-![Office套件](../assets/images/office-suite.jpg)
+![Office套件](/assets/images/office-suite.jpg)
 
 ---
 
@@ -97,43 +77,19 @@ style: |
 - 示例代码库
 - 中文界面支持
 
-![MATLAB界面](../assets/images/matlab-interface.jpg)
+![MATLAB界面](/assets/images/matlab-interface.jpg)
 
 ---
 
 ### 常用工具箱
 
-<table>
-  <thead>
-    <tr>
-      <th>工具箱</th>
-      <th>应用领域</th>
-      <th>典型用途</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Signal Processing</td>
-      <td>信号处理</td>
-      <td>波形分析</td>
-    </tr>
-    <tr>
-      <td>Image Processing</td>
-      <td>图像处理</td>
-      <td>图片增强</td>
-    </tr>
-    <tr>
-      <td>Statistics</td>
-      <td>统计分析</td>
-      <td>数据建模</td>
-    </tr>
-    <tr>
-      <td>Neural Network</td>
-      <td>神经网络</td>
-      <td>深度学习</td>
-    </tr>
-  </tbody>
-</table>
+工具箱|应用领域|典型用途
+---|---|---
+Signal Processing|信号处理|波形分析
+Image Processing|图像处理|图片增强
+Statistics|统计分析|数据建模
+Neural Network|神经网络|深度学习
+
 ---
 
 ### 学习资源
@@ -143,7 +99,7 @@ style: |
 - 在线社区支持
 - 示例程序库
 
-![学习资源](../assets/images/matlab-learning.jpg)
+![学习资源](/assets/images/matlab-learning.jpg)
 
 ---
 
@@ -155,7 +111,7 @@ style: |
 - Word插件支持
 - 在线同步功能
 
-![EndNote使用](../assets/images/endnote-usage.jpg)
+![EndNote使用](/assets/images/endnote-usage.jpg)
 
 ---
 
@@ -165,7 +121,7 @@ style: |
 - 多平台支持
 - 群组协作
 
-![Zotero功能](../assets/images/zotero-features.jpg)
+![Zotero功能](/assets/images/zotero-features.jpg)
 
 ---
 
@@ -175,7 +131,7 @@ style: |
 - 推荐系统
 - 免费存储空间
 
-![Mendeley界面](../assets/images/mendeley-interface.jpg)
+![Mendeley界面](/assets/images/mendeley-interface.jpg)
 
 ---
 
@@ -187,7 +143,7 @@ style: |
 - 云同步功能
 - 签名工具
 
-![Adobe Reader](../assets/images/adobe-reader.jpg)
+![Adobe Reader](/assets/images/adobe-reader.jpg)
 
 ---
 
@@ -199,7 +155,7 @@ style: |
 - 过滤规则
 - 性能优化
 
-![广告拦截](../assets/images/ad-blocking.jpg)
+![广告拦截](/assets/images/ad-blocking.jpg)
 
 ---
 
@@ -209,7 +165,7 @@ style: |
 - 网页实时翻译
 - PDF翻译功能
 
-![翻译插件](../assets/images/translation-tools.jpg)
+![翻译插件](/assets/images/translation-tools.jpg)
 
 ---
 
@@ -219,7 +175,7 @@ style: |
 - Evernote剪藏
 - 高亮标注工具
 
-![网页剪藏](../assets/images/web-clipper.jpg)
+![网页剪藏](/assets/images/web-clipper.jpg)
 
 ---
 
@@ -231,7 +187,7 @@ style: |
 - 文件预览
 - 快捷操作
 
-![Everything](../assets/images/everything-search.jpg)
+![Everything](/assets/images/everything-search.jpg)
 
 ---
 
@@ -241,7 +197,7 @@ style: |
 - 大文件识别
 - 重复文件查找
 
-![WizTree分析](../assets/images/wiztree-analysis.jpg)
+![WizTree分析](/assets/images/wiztree-analysis.jpg)
 
 ---
 
@@ -251,7 +207,7 @@ style: |
 - 便携软件
 - 批量处理
 
-![Geek工具](../assets/images/geek-uninstaller.jpg)
+![Geek工具](/assets/images/geek-uninstaller.jpg)
 
 ---
 
@@ -263,7 +219,7 @@ style: |
 - 勒索防护
 - 性能影响小
 
-![Defender设置](../assets/images/defender-settings.jpg)
+![Defender设置](/assets/images/defender-settings.jpg)
 
 ---
 
@@ -273,7 +229,7 @@ style: |
 - 启动项管理
 - 软件管家
 
-![火绒功能](../assets/images/huorong-features.jpg)
+![火绒功能](/assets/images/huorong-features.jpg)
 
 ---
 
@@ -283,4 +239,4 @@ style: |
 - 云端备份
 - 增量备份
 
-![备份方案](../assets/images/backup-strategy.jpg)
+![备份方案](/assets/images/backup-strategy.jpg)

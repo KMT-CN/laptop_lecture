@@ -21,7 +21,7 @@ style: |
 
 ## 数字生活平衡指南
 
-![数字生活](../assets/images/digital-life.jpg)
+![数字生活](/assets/images/digital-life.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ style: |
 - 云存档功能
 - 社区功能
 
-![Steam平台](../assets/images/steam-platform.jpg)
+![Steam平台](/assets/images/steam-platform.jpg)
 
 ---
 
@@ -78,7 +78,7 @@ style: |
 - 开发者友好
 - 优惠券活动
 
-![Epic商城](../assets/images/epic-store.jpg)
+![Epic商城](/assets/images/epic-store.jpg)
 
 ---
 
@@ -90,7 +90,7 @@ style: |
 - DNS优化
 - 延迟优化
 
-![网络优化](../assets/images/gaming-network.jpg)
+![网络优化](/assets/images/gaming-network.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ style: |
 - 社交功能
 - 跨设备同步
 
-![Spotify功能](../assets/images/spotify-features.jpg)
+![Spotify功能](/assets/images/spotify-features.jpg)
 
 ---
 
@@ -149,7 +149,7 @@ style: |
 - 播放列表管理
 - 字幕同步
 
-![PotPlayer界面](../assets/images/potplayer-interface.jpg)
+![PotPlayer界面](/assets/images/potplayer-interface.jpg)
 
 ---
 
@@ -159,7 +159,7 @@ style: |
 - 视频录制
 - 截图工具
 
-![高级功能](../assets/images/potplayer-advanced.jpg)
+![高级功能](/assets/images/potplayer-advanced.jpg)
 
 ---
 
@@ -171,7 +171,7 @@ style: |
 - 插件扩展
 - 录制功能
 
-![OBS设置](../assets/images/obs-settings.jpg)
+![OBS设置](/assets/images/obs-settings.jpg)
 
 ---
 
@@ -215,7 +215,7 @@ style: |
 - 定期复习
 - 总结模板
 
-![LeetCode](../assets/images/leetcode-strategy.jpg)
+![LeetCode](/assets/images/leetcode-strategy.jpg)
 
 ---
 
@@ -262,7 +262,7 @@ style: |
 - 题目归档
 - 社区讨论
 
-![Codeforces](../assets/images/codeforces.jpg)
+![Codeforces](/assets/images/codeforces.jpg)
 
 ---
 
@@ -276,7 +276,7 @@ style: |
 - 特效字幕
 - 一键导出
 
-![剪映界面](../assets/images/jianying.jpg)
+![剪映界面](/assets/images/jianying.jpg)
 
 ---
 
@@ -286,7 +286,7 @@ style: |
 - 特效制作
 - 免费版本
 
-![DaVinci](../assets/images/davinci.jpg)
+![DaVinci](/assets/images/davinci.jpg)
 
 ---
 
@@ -298,7 +298,7 @@ style: |
 - 修图技巧
 - 调色方法
 
-![PS教程](../assets/images/photoshop-basics.jpg)
+![PS教程](/assets/images/photoshop-basics.jpg)
 
 ---
 
@@ -330,7 +330,7 @@ style: |
 - 知识链接
 - 输出分享
 
-![知识管理](../assets/images/knowledge-management.jpg)
+![知识管理](/assets/images/knowledge-management.jpg)
 
 ---
 
@@ -377,7 +377,7 @@ style: |
 - Anki记忆卡
 - RescueTime跟踪
 
-![效率工具](../assets/images/productivity-tools.jpg)
+![效率工具](/assets/images/productivity-tools.jpg)
 
 ---
 
@@ -388,7 +388,7 @@ style: |
 - 社交活动安排
 - 兴趣培养建议
 
-![生活平衡](../assets/images/life-balance.jpg)
+![生活平衡](/assets/images/life-balance.jpg)
 
 ---
 
