@@ -1,53 +1,100 @@
 ---
-marp: true
-theme: default
-paginate: true
-style: |
-  section {
-    background-color: #ffffff;
-    padding: 20px;
-  }
-  img {
-    display: block;
-    margin: auto;
-    max-height: 450px;
-  }
-  .small-text {
-    font-size: 0.8em;
-  }
+layout: section
+background: https://gradienta.io/web/assets/gradients/189.jpg
 ---
 
-# 第五章：娱乐与拓展
-
-## 数字生活平衡指南
-
-![数字生活](/assets/images/digital-life.jpg)
-
----
-
-## 5.1 游戏平台全解析
-
-### Steam平台
-- 全球最大PC游戏平台
-- 特惠季活动
-- 云存档功能
-- 社区功能
-
-![Steam平台](/assets/images/steam-platform.jpg)
+<div class="flex flex-col h-full">
+  <div class="text-center my-auto p-8 bg-white bg-opacity-90 backdrop-blur-sm rounded-2xl shadow-xl mx-auto max-w-3xl">
+    <div class="text-4xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">
+      第五章：娱乐与拓展
+    </div>
+    <div class="text-2xl text-gray-600">
+      数字生活平衡指南
+    </div>
+  </div>
+</div>
 
 ---
+layout: image-right
+image: /assets/images/digital-life.jpg
+---
 
-### Steam使用技巧
+<div class="flex flex-col h-full justify-center p-8">
+  <div class="space-y-4">
+    <h1 class="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">
+      数字生活
+    </h1>
+    <p class="text-gray-600">
+      探索数字时代的娱乐方式，保持学习与生活的平衡
+    </p>
+  </div>
+</div>
 
-<table>
-  <thead>
-    <tr>
-      <th>功能</th>
-      <th>说明</th>
-      <th>建议</th>
-    </tr>
-  </thead>
-  <tbody>
+---
+layout: two-cols
+---
+
+<div class="p-8">
+  <h2 class="text-2xl font-bold mb-6 text-indigo-700">5.1 游戏平台全解析</h2>
+  
+  <div class="bg-gradient-to-br from-indigo-50 to-purple-50 rounded-xl shadow-lg p-6">
+    <div class="flex items-center mb-6">
+      <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-indigo-500 to-purple-500 flex items-center justify-center text-white">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+      </div>
+      <h3 class="text-xl font-semibold text-indigo-800 ml-4">Steam平台</h3>
+    </div>
+    
+    <div class="space-y-4">
+      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+        <div class="w-2 h-2 rounded-full bg-indigo-400 mr-3"></div>
+        <span class="text-gray-700">全球最大PC游戏平台</span>
+      </div>
+      
+      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+        <div class="w-2 h-2 rounded-full bg-purple-400 mr-3"></div>
+        <span class="text-gray-700">特惠季活动</span>
+      </div>
+      
+      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+        <div class="w-2 h-2 rounded-full bg-blue-400 mr-3"></div>
+        <span class="text-gray-700">云存档功能</span>
+      </div>
+      
+      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+        <div class="w-2 h-2 rounded-full bg-pink-400 mr-3"></div>
+        <span class="text-gray-700">社区功能</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+::right::
+
+<div class="p-8 flex items-center justify-center">
+  <img src="/assets/images/steam-platform.jpg" class="rounded-xl shadow-lg max-w-full" />
+</div>
+
+---
+layout: default
+---
+
+<div class="p-8">
+  <h2 class="text-2xl font-bold mb-6 text-indigo-700">Steam使用技巧</h2>
+  
+  <div class="bg-white rounded-xl shadow-lg overflow-hidden">
+    <table class="w-full">
+      <thead class="bg-gradient-to-r from-indigo-50 to-purple-50">
+        <tr>
+          <th class="px-6 py-4 text-left text-gray-700 font-semibold">功能</th>
+          <th class="px-6 py-4 text-left text-gray-700 font-semibold">说明</th>
+          <th class="px-6 py-4 text-left text-gray-700 font-semibold">建议</th>
+        </tr>
+      </thead>
+      <tbody class="divide-y divide-gray-100">
     <tr>
       <td>愿望单</td>
       <td>关注游戏降价</td>

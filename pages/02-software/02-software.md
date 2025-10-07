@@ -1,50 +1,127 @@
 ---
-marp: true
-theme: default
-paginate: true
-transition: fade
-style: |
-  section {
-    background-color: #ffffff;
-    padding: 20px;
-  }
-  img {
-    display: block;
-    margin: auto;
-    max-height: 450px;
-  }
-  .small-text {
-    font-size: 0.8em;
-  }
+layout: section
 ---
 
-# 第二章：软件与资源获取
-
-## 校园软件资源指南
-
-![软件资源概览](/assets/images/software-overview.jpg)
-
----
-
-## 2.1 校园正版软件平台
-
-### 平台介绍
-- 正版软件服务平台
-- 校园网统一认证
-
-![校园软件平台](/assets/images/campus-software.jpg)
+<div class="flex flex-col h-full bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50">
+  <div class="text-center my-auto p-8">
+    <div class="text-4xl font-bold mb-4 text-blue-800">
+      第二章：软件与资源获取
+    </div>
+    <div class="text-2xl text-indigo-600 opacity-80">
+      校园软件资源指南
+    </div>
+  </div>
+</div>
 
 ---
+layout: image-right
+image: /assets/images/software-overview.jpg
+---
 
-### 软件获取流程
+<div class="flex flex-col h-full justify-center p-8">
+  <div class="space-y-4">
+    <h1 class="text-3xl font-bold text-blue-800">软件资源概览</h1>
+    <p class="text-gray-600">
+      全方位了解校园软件资源，助力你的学习与工作
+    </p>
+  </div>
+</div>
 
-1. 登录平台
-2. 选择所需软件
-3. 验证身份
-4. 下载安装包
-5. 获取授权
+---
+layout: two-cols
+---
 
-![获取流程](/assets/images/download-process.jpg)
+<div class="p-8 pr-4">
+  <h2 class="text-2xl font-bold text-blue-800 mb-6">2.1 校园正版软件平台</h2>
+  
+  <div class="bg-white rounded-xl shadow-lg p-6 space-y-4">
+    <h3 class="text-xl font-semibold text-indigo-600">平台介绍</h3>
+    <div class="space-y-3">
+      <div class="flex items-center">
+        <div class="w-2 h-2 rounded-full bg-indigo-400 mr-3"></div>
+        <span class="text-gray-700">正版软件服务平台</span>
+      </div>
+      <div class="flex items-center">
+        <div class="w-2 h-2 rounded-full bg-indigo-400 mr-3"></div>
+        <span class="text-gray-700">校园网统一认证</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+::right::
+
+<div class="p-8 pl-4 flex items-center justify-center">
+  <img src="/assets/images/campus-software.jpg" class="rounded-lg shadow-lg max-h-80" />
+</div>
+
+---
+layout: default
+---
+
+<div class="p-8">
+  <h2 class="text-2xl font-bold text-blue-800 mb-6">软件获取流程</h2>
+  
+  <div class="grid grid-cols-2 gap-8">
+    <div class="space-y-6">
+      <div class="flex items-start space-x-4">
+        <div class="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 font-bold flex-shrink-0">
+          1
+        </div>
+        <div class="bg-white rounded-lg shadow-sm p-4 flex-grow">
+          <h3 class="font-semibold text-blue-700 mb-1">登录平台</h3>
+          <p class="text-gray-600 text-sm">使用学号和统一身份认证登录</p>
+        </div>
+      </div>
+      
+      <div class="flex items-start space-x-4">
+        <div class="w-8 h-8 rounded-full bg-indigo-100 flex items-center justify-center text-indigo-600 font-bold flex-shrink-0">
+          2
+        </div>
+        <div class="bg-white rounded-lg shadow-sm p-4 flex-grow">
+          <h3 class="font-semibold text-indigo-700 mb-1">选择所需软件</h3>
+          <p class="text-gray-600 text-sm">浏览分类，查找目标软件</p>
+        </div>
+      </div>
+      
+      <div class="flex items-start space-x-4">
+        <div class="w-8 h-8 rounded-full bg-purple-100 flex items-center justify-center text-purple-600 font-bold flex-shrink-0">
+          3
+        </div>
+        <div class="bg-white rounded-lg shadow-sm p-4 flex-grow">
+          <h3 class="font-semibold text-purple-700 mb-1">验证身份</h3>
+          <p class="text-gray-600 text-sm">确认学生身份和使用权限</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="space-y-6">
+      <div class="flex items-start space-x-4">
+        <div class="w-8 h-8 rounded-full bg-pink-100 flex items-center justify-center text-pink-600 font-bold flex-shrink-0">
+          4
+        </div>
+        <div class="bg-white rounded-lg shadow-sm p-4 flex-grow">
+          <h3 class="font-semibold text-pink-700 mb-1">下载安装包</h3>
+          <p class="text-gray-600 text-sm">选择适合的版本下载</p>
+        </div>
+      </div>
+      
+      <div class="flex items-start space-x-4">
+        <div class="w-8 h-8 rounded-full bg-rose-100 flex items-center justify-center text-rose-600 font-bold flex-shrink-0">
+          5
+        </div>
+        <div class="bg-white rounded-lg shadow-sm p-4 flex-grow">
+          <h3 class="font-semibold text-rose-700 mb-1">获取授权</h3>
+          <p class="text-gray-600 text-sm">激活软件，获得正版授权</p>
+        </div>
+      </div>
+      
+      <div class="flex justify-center items-center h-32">
+        <img src="/assets/images/download-process.jpg" class="max-h-full rounded-lg shadow-lg" />
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 
