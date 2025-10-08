@@ -1,5 +1,7 @@
 {
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
-  ]
+  ],
+  "buildCommand": "chmod +x /vercel/path0/node_modules/.bin/slidev && npm run build",
+  "outputDirectory": "dist"
 }
