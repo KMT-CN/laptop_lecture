@@ -687,6 +687,7 @@ class: "bg-gradient-to-br from-slate-50 via-white to-sky-50"
 - 数字权利激活
 
 ![激活方式](/assets/images/activation.png)
+![激活方式](/assets/images/activation.png)
 
 ---
 
@@ -697,8 +698,6 @@ class: "bg-gradient-to-br from-slate-50 via-white to-sky-50"
 - 系统更新：及时
 - 软件更新：定期
 - 病毒扫描：每周
-
-![维护计划](/assets/images/maintenance.jpg)
 
 ---
 
@@ -730,7 +729,6 @@ class: "bg-gradient-to-br from-slate-50 via-white to-sky-50"
     </tr>
   </tbody>
 </table>
-![备份策略](/assets/images/backup.jpg)
 
 ---
 
@@ -741,4 +739,5 @@ class: "bg-gradient-to-br from-slate-50 via-white to-sky-50"
 - 磁盘碎片整理
 - 驱动程序更新
 
+![系统优化](/assets/images/optimization.avif)
 ![系统优化](/assets/images/optimization.avif)
