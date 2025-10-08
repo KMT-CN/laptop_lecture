@@ -84,7 +84,6 @@ layout: default
 
 <div class="p-8">
   <h2 class="text-2xl font-bold mb-6 text-indigo-700">Steam使用技巧</h2>
-  
   <div class="bg-white rounded-xl shadow-lg overflow-hidden">
     <table class="w-full">
       <thead class="bg-gradient-to-r from-indigo-50 to-purple-50">
@@ -117,6 +116,8 @@ layout: default
     </tr>
   </tbody>
 </table>
+</div>
+</div>
 ---
 
 ### Epic Games

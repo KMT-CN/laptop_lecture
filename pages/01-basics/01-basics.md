@@ -175,7 +175,6 @@
   <div class="flex flex-col justify-center">
     <h3 class="text-2xl font-semibold text-blue-600 mb-6">内存容量选择</h3>
     <div class="space-y-6">
-
       <div class="flex items-center p-6 bg-gradient-to-r from-blue-50 to-blue-100 rounded-xl border border-blue-200 hover:shadow-lg transition-all">
         <div class="text-4xl font-bold text-blue-600 mr-6 flex-shrink-0">16</div>
         <div>
@@ -183,7 +182,6 @@
           <div class="text-gray-600">基础办公起点</div>
         </div>
       </div>
-
       <div class="flex items-center p-6 bg-gradient-to-r from-green-50 to-green-100 rounded-xl border border-green-200 hover:shadow-lg transition-all">
         <div class="text-4xl font-bold text-green-600 mr-6 flex-shrink-0">32</div>
         <div>
@@ -191,7 +189,6 @@
           <div class="text-gray-600">主流推荐配置</div>
         </div>
       </div>
-
       <div class="flex items-center p-6 bg-gradient-to-r from-purple-50 to-purple-100 rounded-xl border border-purple-200 hover:shadow-lg transition-all">
         <div class="text-4xl font-bold text-purple-600 mr-6 flex-shrink-0">64</div>
         <div>
@@ -199,7 +196,6 @@
           <div class="text-gray-600">专业工作站配置</div>
         </div>
       </div>
-
     </div>
   </div>
 

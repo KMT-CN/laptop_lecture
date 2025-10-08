@@ -737,12 +737,3 @@ class: "bg-gradient-to-br from-slate-50 via-indigo-50 to-blue-50"
     </li>
   </ul>
 </div>
-
-::right::
-
-<div class="p-6 pl-3 flex items-center justify-center h-full">
-  <div class="relative w-full max-w-md">
-    <div class="absolute -inset-2 bg-gradient-to-br from-indigo-400 to-blue-500 rounded-2xl blur-xl opacity-20"></div>
-  <img src="/assets/images/backup-strategy.jpg" class="relative rounded-2xl shadow-xl border-4 border-white/50 w-full h-auto object-contain max-h-[70vh]" />
-  </div>
-</div>
