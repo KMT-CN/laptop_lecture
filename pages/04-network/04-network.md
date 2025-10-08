@@ -117,7 +117,8 @@ layout: default
     </tr>
   </tbody>
 </table>
-
+  </div>
+</div>
 ---
 
 ## 4.2 校园VPN服务
@@ -127,9 +128,9 @@ layout: default
 #### Windows系统配置
 首次使用SSL VPN，请先安装插件。具体方法见：SSL VPN插件安装步骤
 
-方法一 网页端（推荐使用）：输入网址 https://vpnmotion.buct.edu.cn，用户可自主选择一种方法登录。
-登录方法一：企业微信扫码登录；   
-登录方法二：统一身份认证账号密码+手机短信验证进行登录。   
+###### 方法一 网页端（推荐使用）：输入网址 https://vpnmotion.buct.edu.cn，用户可自主选择一种方法登录。
+###### 登录方法一：企业微信扫码登录；   
+###### 登录方法二：统一身份认证账号密码+手机短信验证进行登录。   
 
 登录后如下图，点击“启动连接”。在电脑的任务栏看到大红A的图标，表示VPN已经连接成功。
 ![](/assets/images/vpn-windows1.jpg)
@@ -161,7 +162,7 @@ layout: default
 - IEEE文献下载
 - ScienceDirect设置
 
-![](/assets/images/library-resources.jpg)
+![](/assets/images/wechat_2025-10-08_162022_817.png)
 
 ---
 
@@ -194,7 +195,7 @@ layout: default
   </tbody>
 </table>
 
-![](/assets/images/download-acceleration.jpg)
+![](/assets/images/download-acceleration.png)
 
 ---
 
@@ -238,7 +239,7 @@ layout: default
 - Pull Request
 - Issue跟踪
 
-![](/assets/images/github-basics.jpg)
+![](/assets/images/github-basics.png)
 
 ---
 
@@ -251,7 +252,7 @@ git commit -m "msg" # 提交更改
 git push           # 推送到远程
 ```
 
-![](/assets/images/git-workflow.jpg)
+![](/assets/images/git-workflow.webp)
 
 ---
 
@@ -263,7 +264,7 @@ git push           # 推送到远程
 - 频段选择
 - 信道优化
 
-![](/assets/images/router-settings.jpg)
+![](/assets/images/router-settings.png)
 
 ---
 
@@ -273,7 +274,7 @@ git push           # 推送到远程
 - 家长控制
 - 防火墙规则
 
-![](/assets/images/advanced-settings.jpg)
+![](/assets/images/advanced-settings.png)
 
 ---
 
@@ -321,7 +322,7 @@ git push           # 推送到远程
 - 网络发现
 - 访问控制
 
-![](/assets/images/file-sharing.jpg)
+![](/assets/images/u=3729409556,267898855&fm=30&app=106&f=JPEG.jpg)
 
 ---
 
@@ -331,7 +332,7 @@ git push           # 推送到远程
 - 权限管理
 - 打印队列
 
-![](/assets/images/printer-sharing.jpg)
+![](/assets/images/u=765800986,2897228034&fm=3074&app=3074&f=PNG.png)
 
 ---
 
@@ -341,7 +342,7 @@ git push           # 推送到远程
 - 备份策略
 - 远程访问
 
-![](/assets/images/nas-system.jpg)
+![](/assets/images/u=3473075622,3790293538&fm=253&fmt=auto&app=138&f=JPEG.webp)
 
 ---
 
@@ -353,7 +354,7 @@ git push           # 推送到远程
 - 开启防火墙
 - 监控连接设备
 
-![](/assets/images/security-settings.jpg)
+![](/assets/images/part-00282-3434.jpg)
 
 ---
 
@@ -363,4 +364,4 @@ git push           # 推送到远程
 - 访问控制
 - 日志审计
 
-![](/assets/images/advanced-security.jpg)
+![](/assets/images/v2-16bbc19ca6b6885d086f60464cc687e3_1440w.png)
