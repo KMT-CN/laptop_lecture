@@ -35,47 +35,47 @@ layout: two-cols
 ---
 
 <div class="p-8">
-  <h2 class="text-2xl font-bold mb-6 text-indigo-700">5.1 游戏平台全解析</h2>
-  
-  <div class="bg-gradient-to-br from-indigo-50 to-purple-50 rounded-xl shadow-lg p-6">
-    <div class="flex items-center mb-6">
-      <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-indigo-500 to-purple-500 flex items-center justify-center text-white">
-        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-        </svg>
-      </div>
-      <h3 class="text-xl font-semibold text-indigo-800 ml-4">Steam平台</h3>
-    </div>
-    
-    <div class="space-y-4">
-      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
-        <div class="w-2 h-2 rounded-full bg-indigo-400 mr-3"></div>
-        <span class="text-gray-700">全球最大PC游戏平台</span>
-      </div>
-      
-      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
-        <div class="w-2 h-2 rounded-full bg-purple-400 mr-3"></div>
-        <span class="text-gray-700">特惠季活动</span>
-      </div>
-      
-      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
-        <div class="w-2 h-2 rounded-full bg-blue-400 mr-3"></div>
-        <span class="text-gray-700">云存档功能</span>
-      </div>
-      
-      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
-        <div class="w-2 h-2 rounded-full bg-pink-400 mr-3"></div>
-        <span class="text-gray-700">社区功能</span>
-      </div>
-    </div>
-  </div>
+<h2 class="text-2xl font-bold mb-6 text-indigo-700">5.1 游戏平台全解析</h2>
+
+<div class="bg-gradient-to-br from-indigo-50 to-purple-50 rounded-xl shadow-lg p-6">
+<div class="flex items-center mb-6">
+<div class="w-12 h-12 rounded-xl bg-gradient-to-br from-indigo-500 to-purple-500 flex items-center justify-center text-white">
+<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+</svg>
+</div>
+<h3 class="text-xl font-semibold text-indigo-800 ml-4">Steam平台</h3>
+</div>
+
+<div class="space-y-4">
+<div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+<div class="w-2 h-2 rounded-full bg-indigo-400 mr-3"></div>
+<span class="text-gray-700">全球最大PC游戏平台</span>
+</div>
+
+<div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+<div class="w-2 h-2 rounded-full bg-purple-400 mr-3"></div>
+<span class="text-gray-700">特惠季活动</span>
+</div>
+
+<div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+<div class="w-2 h-2 rounded-full bg-blue-400 mr-3"></div>
+<span class="text-gray-700">云存档功能</span>
+</div>
+
+<div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+<div class="w-2 h-2 rounded-full bg-pink-400 mr-3"></div>
+<span class="text-gray-700">社区功能</span>
+</div>
+</div>
+</div>
 </div>
 
 ::right::
 
 <div class="p-8 flex items-center justify-center">
-  <img src="/assets/images/steam-platform.jpg" class="rounded-xl shadow-lg max-w-full" />
+  <img src="/assets/images/steam-platform.png" class="rounded-xl shadow-lg max-w-full" />
 </div>
 
 ---
@@ -125,7 +125,7 @@ layout: default
 - 开发者友好
 - 优惠券活动
 
-![Epic商城](/assets/images/epic-store.jpg)
+![Epic商城](/assets/images/epic-store.png)
 
 ---
 
@@ -137,7 +137,7 @@ layout: default
 - DNS优化
 - 延迟优化
 
-![网络优化](/assets/images/gaming-network.jpg)
+
 
 ---
 
@@ -149,7 +149,7 @@ layout: default
 - 社交功能
 - 跨设备同步
 
-![Spotify功能](/assets/images/spotify-features.jpg)
+![Spotify功能](/assets/images/spotify.png)
 
 ---
 
@@ -196,7 +196,7 @@ layout: default
 - 播放列表管理
 - 字幕同步
 
-![PotPlayer界面](/assets/images/potplayer-interface.jpg)
+![PotPlayer界面](/assets/images/potplayer-interface.png)
 
 ---
 
@@ -206,7 +206,7 @@ layout: default
 - 视频录制
 - 截图工具
 
-![高级功能](/assets/images/potplayer-advanced.jpg)
+![高级功能](/assets/images/potplayer-advanced.png)
 
 ---
 
@@ -218,7 +218,7 @@ layout: default
 - 插件扩展
 - 录制功能
 
-![OBS设置](/assets/images/obs-settings.jpg)
+![OBS设置](/assets/images/obs-settings.png)
 
 ---
 
@@ -262,7 +262,7 @@ layout: default
 - 定期复习
 - 总结模板
 
-![LeetCode](/assets/images/leetcode-strategy.jpg)
+![LeetCode](/assets/images/leetcode.webp)
 
 ---
 
@@ -309,7 +309,7 @@ layout: default
 - 题目归档
 - 社区讨论
 
-![Codeforces](/assets/images/codeforces.jpg)
+![Codeforces](/assets/images/codeforces.jpeg)
 
 ---
 
@@ -323,7 +323,7 @@ layout: default
 - 特效字幕
 - 一键导出
 
-![剪映界面](/assets/images/jianying.jpg)
+![剪映界面](/assets/images/jianying.png)
 
 ---
 
@@ -333,7 +333,7 @@ layout: default
 - 特效制作
 - 免费版本
 
-![DaVinci](/assets/images/davinci.jpg)
+![DaVinci](/assets/images/davinci.webp)
 
 ---
 
@@ -376,8 +376,6 @@ layout: default
 - 复习计划
 - 知识链接
 - 输出分享
-
-![知识管理](/assets/images/knowledge-management.jpg)
 
 ---
 
@@ -424,7 +422,7 @@ layout: default
 - Anki记忆卡
 - RescueTime跟踪
 
-![效率工具](/assets/images/productivity-tools.jpg)
+
 
 ---
 
@@ -435,7 +433,7 @@ layout: default
 - 社交活动安排
 - 兴趣培养建议
 
-![生活平衡](/assets/images/life-balance.jpg)
+
 
 ---
 
