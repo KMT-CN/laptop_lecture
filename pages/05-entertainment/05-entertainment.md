@@ -117,6 +117,8 @@ layout: default
     </tr>
   </tbody>
 </table>
+  </div>
+  </div>
 ---
 
 ### Epic Games
