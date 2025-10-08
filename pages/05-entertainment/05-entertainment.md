@@ -345,7 +345,7 @@ layout: default
 - 修图技巧
 - 调色方法
 
-![PS教程](/assets/images/photoshop-basics.jpg)
+![PS教程](/assets/images/ps.png)
 
 ---
 
