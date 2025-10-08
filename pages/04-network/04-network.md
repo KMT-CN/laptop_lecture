@@ -31,49 +31,50 @@ layout: two-cols
 ---
 
 <div class="p-8">
-  <h2 class="text-2xl font-bold mb-6 text-blue-700">4.1 校园网基础设施</h2>
-  
-  <div class="bg-gradient-to-br from-blue-50 to-cyan-50 rounded-xl shadow-lg p-6">
-    <h3 class="text-xl font-semibold text-blue-800 mb-4">网络架构</h3>
-    
-    <div class="grid grid-cols-1 gap-4">
-      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
-        <div class="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 mr-4">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-          </svg>
-        </div>
-        <span class="text-gray-700">有线网络</span>
+<h2 class="text-2xl font-bold mb-6 text-blue-700">4.1 校园网基础设施</h2>
+
+<div class="bg-gradient-to-br from-blue-50 to-cyan-50 rounded-xl shadow-lg p-6">
+  <h3 class="text-xl font-semibold text-blue-800 mb-4">网络架构</h3>
+
+  <div class="grid grid-cols-1 gap-4">
+    <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+      <div class="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 mr-4">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+        </svg>
       </div>
-      
-      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
-        <div class="w-10 h-10 rounded-full bg-cyan-100 flex items-center justify-center text-cyan-600 mr-4">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.14 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0" />
-          </svg>
-        </div>
-        <span class="text-gray-700">无线网络</span>
-      </div>
-      
-      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
-        <div class="w-10 h-10 rounded-full bg-indigo-100 flex items-center justify-center text-indigo-600 mr-4">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 7a2 2 0 012 2m4 0a6 6 0 01-7.743 5.743L11 17H9v2H7v2H4a1 1 0 01-1-1v-2.586a1 1 0 01.293-.707l5.964-5.964A6 6 0 1121 9z" />
-          </svg>
-        </div>
-        <span class="text-gray-700">统一认证</span>
-      </div>
-      
-      <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
-        <div class="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 mr-4">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-          </svg>
-        </div>
-        <span class="text-gray-700">带宽分配</span>
-      </div>
+      <span class="text-gray-700">有线网络</span>
     </div>
+
+  <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+    <div class="w-10 h-10 rounded-full bg-cyan-100 flex items-center justify-center text-cyan-600 mr-4">
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.14 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0" />
+      </svg>
+    </div>
+    <span class="text-gray-700">无线网络</span>
   </div>
+
+  <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+    <div class="w-10 h-10 rounded-full bg-indigo-100 flex items-center justify-center text-indigo-600 mr-4">
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 7a2 2 0 012 2m4 0a6 6 0 01-7.743 5.743L11 17H9v2H7v2H4a1 1 0 01-1-1v-2.586a1 1 0 01.293-.707l5.964-5.964A6 6 0 1121 9z" />
+      </svg>
+    </div>
+    <span class="text-gray-700">统一认证</span>
+  </div>
+
+  <div class="flex items-center bg-white/60 rounded-lg p-4 shadow-sm">
+    <div class="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 mr-4">
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+      </svg>
+    </div>
+    <span class="text-gray-700">带宽分配</span>
+  </div>
+  
+  </div>
+</div>
 </div>
 
 ::right::
