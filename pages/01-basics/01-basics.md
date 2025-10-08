@@ -312,7 +312,7 @@ style: |
    - 数据分区
    - 恢复分区
 
-![分区设置](/assets/images/partition-setup.jpg)
+![分区设置](/assets/images/partition-setup.webp)
 
 ---
 
@@ -322,7 +322,7 @@ style: |
 - KMS服务器激活
 - 数字权利激活
 
-![激活方式](/assets/images/activation.jpg)
+![激活方式](/assets/images/activation.png)
 
 ---
 
@@ -333,8 +333,6 @@ style: |
 - 系统更新：及时
 - 软件更新：定期
 - 病毒扫描：每周
-
-![维护计划](/assets/images/maintenance.jpg)
 
 ---
 
@@ -366,7 +364,6 @@ style: |
     </tr>
   </tbody>
 </table>
-![备份策略](/assets/images/backup.jpg)
 
 ---
 
@@ -377,4 +374,4 @@ style: |
 - 磁盘碎片整理
 - 驱动程序更新
 
-![系统优化](/assets/images/optimization.jpg)
+![系统优化](/assets/images/optimization.avif)
