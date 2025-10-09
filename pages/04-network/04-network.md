@@ -113,7 +113,7 @@ layout: default
     <tr>
       <td>VPN服务</td>
       <td>校外访问</td>
-      <td>L2TP/IPSec</td>
+      <td>iSecSP</td>
     </tr>
   </tbody>
 </table>
@@ -292,7 +292,7 @@ git push           # 推送到远程
     <tr>
       <td>检查支持</td>
       <td>运营商咨询</td>
-      <td>确认是否支持</td>
+      <td>确认是否支持 (我校校园网已支持IPv6)</td>
     </tr>
     <tr>
       <td>系统设置</td>

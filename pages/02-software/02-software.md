@@ -56,8 +56,6 @@ image: /assets/images/software-overview.jpg
 </div>
 
 ---
-layout: default
----
 
 <div class="p-8">
   <h2 class="text-2xl font-bold text-blue-800 mb-6">软件获取流程</h2>

@@ -363,8 +363,18 @@ layout: default
   <tbody>
     <tr>
       <td>Canva</td>
-      <td>在线设计</td>
-      <td>海报制作</td>
+      <td>在线设计，模板丰富</td>
+      <td>海报、社媒素材</td>
+    </tr>
+    <tr>
+      <td>Krita</td>
+      <td>开源数字绘画，画笔与绘图工具丰富</td>
+      <td>概念艺术、插画、数字绘画</td>
+    </tr>
+    <tr>
+      <td>GIMP</td>
+      <td>开源图像编辑，插件与脚本支持</td>
+      <td>照片修图、图像合成、批处理</td>
     </tr>
   </tbody>
 </table>
