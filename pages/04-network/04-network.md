@@ -242,111 +242,111 @@ layout: default
 layout: default
 ---
 
-<div class="p-8">
-  <h2 class="text-2xl font-bold mb-6 text-purple-700">4.4 远程控制解决方案</h2>
+<div class="p-6">
+  <h2 class="text-2xl font-bold mb-4 text-purple-700">4.4 远程控制解决方案</h2>
   
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <!-- ToDesk -->
-    <div class="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl shadow-lg p-6">
-      <div class="flex items-center mb-6">
-        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center text-white">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl shadow-lg p-4">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center text-white">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
           </svg>
         </div>
-        <h3 class="text-lg font-semibold text-purple-800 ml-4">ToDesk</h3>
+        <h3 class="text-lg font-semibold text-purple-800 ml-3">ToDesk</h3>
       </div>
-      <div class="space-y-3">
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-purple-400 mr-3"></div>
+      <div class="space-y-2">
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-purple-400 mr-2"></div>
           <span class="text-gray-700">远程桌面控制</span>
         </div>
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-pink-400 mr-3"></div>
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-pink-400 mr-2"></div>
           <span class="text-gray-700">文件传输功能</span>
         </div>
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-rose-400 mr-3"></div>
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-rose-400 mr-2"></div>
           <span class="text-gray-700">远程开机支持</span>
         </div>
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-fuchsia-400 mr-3"></div>
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-fuchsia-400 mr-2"></div>
           <span class="text-gray-700">移动端支持</span>
         </div>
       </div>
     </div>
     <!-- RustDesk -->
-    <div class="bg-gradient-to-br from-orange-50 to-red-50 rounded-xl shadow-lg p-6">
-      <div class="flex items-center mb-6">
-        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-orange-500 to-red-500 flex items-center justify-center text-white">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-gradient-to-br from-orange-50 to-red-50 rounded-xl shadow-lg p-4">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-orange-500 to-red-500 flex items-center justify-center text-white">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
           </svg>
         </div>
-        <h3 class="text-lg font-semibold text-orange-800 ml-4">RustDesk</h3>
+        <h3 class="text-lg font-semibold text-orange-800 ml-3">RustDesk</h3>
       </div>
-      <div class="space-y-3">
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-orange-400 mr-3"></div>
+      <div class="space-y-2">
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-orange-400 mr-2"></div>
           <span class="text-gray-700">免费开源方案</span>
         </div>
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-red-400 mr-3"></div>
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-red-400 mr-2"></div>
           <span class="text-gray-700">自建服务器</span>
         </div>
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-yellow-400 mr-3"></div>
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-yellow-400 mr-2"></div>
           <span class="text-gray-700">端到端加密</span>
         </div>
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-amber-400 mr-3"></div>
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-amber-400 mr-2"></div>
           <span class="text-gray-700">跨平台支持</span>
         </div>
       </div>
     </div>
     <!-- Windows远程桌面 -->
-    <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl shadow-lg p-6">
-      <div class="flex items-center mb-6">
-        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-blue-500 to-indigo-500 flex items-center justify-center text-white">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl shadow-lg p-4">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-500 to-indigo-500 flex items-center justify-center text-white">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
           </svg>
         </div>
-        <h3 class="text-lg font-semibold text-blue-800 ml-4">Windows RDP</h3>
+        <h3 class="text-lg font-semibold text-blue-800 ml-3">Windows RDP</h3>
       </div>
-      <div class="space-y-3">
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-blue-400 mr-3"></div>
+      <div class="space-y-2">
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-blue-400 mr-2"></div>
           <span class="text-gray-700">系统原生集成</span>
         </div>
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-indigo-400 mr-3"></div>
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-indigo-400 mr-2"></div>
           <span class="text-gray-700">高性能显示</span>
         </div>
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-purple-400 mr-3"></div>
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-purple-400 mr-2"></div>
           <span class="text-gray-700">本地资源映射</span>
         </div>
-        <div class="flex items-center bg-white/60 rounded-lg p-3 text-sm">
-          <div class="w-2 h-2 rounded-full bg-violet-400 mr-3"></div>
+        <div class="flex items-center bg-white/60 rounded-lg p-2 text-sm">
+          <div class="w-2 h-2 rounded-full bg-violet-400 mr-2"></div>
           <span class="text-gray-700">多显示器支持</span>
         </div>
       </div>
     </div>
   </div>
   
-  <div class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
+  <div class="mt-4 grid grid-cols-1 md:grid-cols-3 gap-4">
     <div class="text-center">
-      <img src="/assets/images/sunlogin-features.jpg" class="rounded-xl shadow-lg w-full mb-4" alt="ToDesk功能" />
-      <p class="text-sm text-gray-600">ToDesk界面展示</p>
+      <img src="/assets/images/sunlogin-features.jpg" class="rounded-lg shadow-md w-full h-32 object-cover mb-2" alt="ToDesk功能" />
+      <p class="text-xs text-gray-600">ToDesk界面展示</p>
     </div>
     <div class="text-center">
-      <img src="/assets/images/rustdesk-interface.png" class="rounded-xl shadow-lg w-full mb-4" alt="RustDesk界面" />
-      <p class="text-sm text-gray-600">RustDesk开源方案</p>
+      <img src="/assets/images/rustdesk-interface.png" class="rounded-lg shadow-md w-full h-32 object-cover mb-2" alt="RustDesk界面" />
+      <p class="text-xs text-gray-600">RustDesk开源方案</p>
     </div>
     <div class="text-center">
-      <img src="/assets/images/rdp-settings.png" class="rounded-xl shadow-lg w-full mb-4" alt="RDP设置" />
-      <p class="text-sm text-gray-600">Windows远程桌面设置</p>
+      <img src="/assets/images/rdp-settings.png" class="rounded-lg shadow-md w-full h-32 object-cover mb-2" alt="RDP设置" />
+      <p class="text-xs text-gray-600">Windows远程桌面设置</p>
     </div>
   </div>
 </div>
@@ -402,55 +402,33 @@ layout: two-cols
 layout: default
 ---
 
-<div class="p-8">
-  <h2 class="text-2xl font-bold mb-6 text-green-700">Git基础操作命令</h2>
+<div class="p-4">
+  <h2 class="text-xl font-bold mb-3 text-green-700">Git基础操作命令</h2>
   
-  <div class="bg-gradient-to-br from-gray-50 to-slate-50 rounded-xl shadow-lg p-6 mb-8">
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-      <div class="space-y-4">
-        <div class="bg-white rounded-lg p-4 shadow-sm">
-          <h4 class="font-semibold text-gray-800 mb-2">初始化与配置</h4>
-          <div class="bg-gray-100 rounded p-3 font-mono text-sm">
+  <div class="bg-gradient-to-br from-gray-50 to-slate-50 rounded-lg shadow-md p-3 mb-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+      <div class="space-y-2">
+        <div class="bg-white rounded p-2 shadow-sm">
+          <h4 class="font-medium text-gray-800 mb-1 text-xs">初始化与配置</h4>
+          <div class="bg-gray-100 rounded p-1 font-mono text-xs leading-tight">
             <p class="text-green-600"># 初始化仓库</p>
             <p>git init</p>
-            <p class="text-green-600 mt-2"># 配置用户信息</p>
+            <p class="text-green-600 mt-0.5"># 配置用户信息</p>
             <p>git config --global user.name "name"</p>
             <p>git config --global user.email "email"</p>
           </div>
         </div>
-        <div class="bg-white rounded-lg p-4 shadow-sm">
-          <h4 class="font-semibold text-gray-800 mb-2">基本操作</h4>
-          <div class="bg-gray-100 rounded p-3 font-mono text-sm">
+      </div>
+      <div class="space-y-2">
+        <div class="bg-white rounded p-2 shadow-sm">
+          <h4 class="font-medium text-gray-800 mb-1 text-xs">基本操作</h4>
+          <div class="bg-gray-100 rounded p-1 font-mono text-xs leading-tight">
             <p class="text-green-600"># 暂存更改</p>
             <p>git add .</p>
-            <p class="text-green-600 mt-2"># 提交更改</p>
+            <p class="text-green-600 mt-0.5"># 提交更改</p>
             <p>git commit -m "msg"</p>
-            <p class="text-green-600 mt-2"># 查看状态</p>
+            <p class="text-green-600 mt-0.5"># 查看状态</p>
             <p>git status</p>
-          </div>
-        </div>
-      </div>
-      <div class="space-y-4">
-        <div class="bg-white rounded-lg p-4 shadow-sm">
-          <h4 class="font-semibold text-gray-800 mb-2">远程操作</h4>
-          <div class="bg-gray-100 rounded p-3 font-mono text-sm">
-            <p class="text-green-600"># 添加远程仓库</p>
-            <p>git remote add origin &lt;url&gt;</p>
-            <p class="text-green-600 mt-2"># 推送到远程</p>
-            <p>git push origin main</p>
-            <p class="text-green-600 mt-2"># 拉取更新</p>
-            <p>git pull origin main</p>
-          </div>
-        </div>
-        <div class="bg-white rounded-lg p-4 shadow-sm">
-          <h4 class="font-semibold text-gray-800 mb-2">分支管理</h4>
-          <div class="bg-gray-100 rounded p-3 font-mono text-sm">
-            <p class="text-green-600"># 创建分支</p>
-            <p>git branch feature</p>
-            <p class="text-green-600 mt-2"># 切换分支</p>
-            <p>git checkout feature</p>
-            <p class="text-green-600 mt-2"># 合并分支</p>
-            <p>git merge feature</p>
           </div>
         </div>
       </div>
@@ -458,8 +436,8 @@ layout: default
   </div>
   
   <div class="text-center">
-    <img src="/assets/images/git-workflow.webp" class="rounded-xl shadow-lg mx-auto max-w-4xl" alt="Git工作流程图" />
-    <p class="text-sm text-gray-600 mt-4">Git版本控制工作流程示意图</p>
+    <img src="/assets/images/git-workflow.webp" class="rounded shadow-md mx-auto max-w-2xl h-32 object-cover" alt="Git工作流程图" />
+    <p class="text-xs text-gray-600 mt-1">Git版本控制工作流程示意图</p>
   </div>
 </div>
 
@@ -467,111 +445,264 @@ layout: default
 layout: default
 ---
 
-<div class="p-8">
-  <h2 class="text-2xl font-bold mb-6 text-indigo-700">4.7 家用网络优化</h2>
+<div class="p-4">
+  <h2 class="text-xl font-bold mb-3 text-green-700">Git查看与撤销命令</h2>
   
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+  <div class="bg-gradient-to-br from-gray-50 to-slate-50 rounded-lg shadow-md p-3 mb-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+      <div class="space-y-2">
+        <div class="bg-white rounded p-2 shadow-sm">
+          <h4 class="font-medium text-gray-800 mb-1 text-xs">查看历史</h4>
+          <div class="bg-gray-100 rounded p-1 font-mono text-xs leading-tight">
+            <p class="text-green-600"># 查看提交历史</p>
+            <p>git log --oneline</p>
+            <p class="text-green-600 mt-0.5"># 查看文件差异</p>
+            <p>git diff</p>
+            <p class="text-green-600 mt-0.5"># 查看暂存区</p>
+            <p>git diff --staged</p>
+          </div>
+        </div>
+      </div>
+      <div class="space-y-2">
+        <div class="bg-white rounded p-2 shadow-sm">
+          <h4 class="font-medium text-gray-800 mb-1 text-xs">撤销操作</h4>
+          <div class="bg-gray-100 rounded p-1 font-mono text-xs leading-tight">
+            <p class="text-green-600"># 撤销工作区修改</p>
+            <p>git checkout -- file</p>
+            <p class="text-green-600 mt-0.5"># 撤销暂存</p>
+            <p>git reset HEAD file</p>
+            <p class="text-green-600 mt-0.5"># 重置到指定提交</p>
+            <p>git reset --hard commit</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="text-center">
+    <div class="bg-gradient-to-r from-yellow-50 to-orange-50 rounded-lg p-4 border border-yellow-200">
+      <h3 class="text-sm font-semibold text-yellow-800 mb-2">Git查看技巧</h3>
+      <div class="text-xs text-gray-600 space-y-1">
+        <p>• 使用 --oneline 查看简洁历史</p>
+        <p>• 使用 diff 比较文件变化</p>
+        <p>• 撤销操作前先备份重要内容</p>
+        <p>• reset --hard 会丢失未提交的修改</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+layout: default
+---
+
+<div class="p-4">
+  <h2 class="text-xl font-bold mb-3 text-green-700">Git远程操作命令</h2>
+  
+  <div class="bg-gradient-to-br from-gray-50 to-slate-50 rounded-lg shadow-md p-3 mb-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+      <div class="space-y-2">
+        <div class="bg-white rounded p-2 shadow-sm">
+          <h4 class="font-medium text-gray-800 mb-1 text-xs">远程操作</h4>
+          <div class="bg-gray-100 rounded p-1 font-mono text-xs leading-tight">
+            <p class="text-green-600"># 添加远程仓库</p>
+            <p>git remote add origin &lt;url&gt;</p>
+            <p class="text-green-600 mt-0.5"># 推送到远程</p>
+            <p>git push origin main</p>
+            <p class="text-green-600 mt-0.5"># 拉取更新</p>
+            <p>git pull origin main</p>
+          </div>
+        </div>
+      </div>
+      <div class="space-y-2">
+        <div class="bg-white rounded p-2 shadow-sm">
+          <h4 class="font-medium text-gray-800 mb-1 text-xs">克隆与获取</h4>
+          <div class="bg-gray-100 rounded p-1 font-mono text-xs leading-tight">
+            <p class="text-green-600"># 克隆仓库</p>
+            <p>git clone &lt;url&gt;</p>
+            <p class="text-green-600 mt-0.5"># 获取远程更新</p>
+            <p>git fetch origin</p>
+            <p class="text-green-600 mt-0.5"># 查看远程仓库</p>
+            <p>git remote -v</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="text-center">
+    <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-4 border border-blue-200">
+      <h3 class="text-sm font-semibold text-blue-800 mb-2">远程协作建议</h3>
+      <div class="text-xs text-gray-600 space-y-1">
+        <p>• push前先pull获取最新代码</p>
+        <p>• 使用fetch查看远程更新但不合并</p>
+        <p>• 配置SSH密钥避免重复输入密码</p>
+        <p>• 定期同步远程仓库保持更新</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+layout: default
+---
+
+<div class="p-4">
+  <h2 class="text-xl font-bold mb-3 text-green-700">Git分支管理命令</h2>
+  
+  <div class="bg-gradient-to-br from-gray-50 to-slate-50 rounded-lg shadow-md p-3 mb-4">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+      <div class="space-y-2">
+        <div class="bg-white rounded p-2 shadow-sm">
+          <h4 class="font-medium text-gray-800 mb-1 text-xs">分支管理</h4>
+          <div class="bg-gray-100 rounded p-1 font-mono text-xs leading-tight">
+            <p class="text-green-600"># 创建分支</p>
+            <p>git branch feature</p>
+            <p class="text-green-600 mt-0.5"># 切换分支</p>
+            <p>git checkout feature</p>
+            <p class="text-green-600 mt-0.5"># 合并分支</p>
+            <p>git merge feature</p>
+          </div>
+        </div>
+      </div>
+      <div class="space-y-2">
+        <div class="bg-white rounded p-2 shadow-sm">
+          <h4 class="font-medium text-gray-800 mb-1 text-xs">分支操作</h4>
+          <div class="bg-gray-100 rounded p-1 font-mono text-xs leading-tight">
+            <p class="text-green-600"># 查看分支</p>
+            <p>git branch -a</p>
+            <p class="text-green-600 mt-0.5"># 删除分支</p>
+            <p>git branch -d feature</p>
+            <p class="text-green-600 mt-0.5"># 重命名分支</p>
+            <p>git branch -m new-name</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="text-center">
+    <div class="bg-gradient-to-r from-green-50 to-emerald-50 rounded-lg p-4 border border-green-200">
+      <h3 class="text-sm font-semibold text-green-800 mb-2">Git最佳实践</h3>
+      <div class="text-xs text-gray-600 space-y-1">
+        <p>• 频繁提交，保持提交信息清晰</p>
+        <p>• 使用分支进行功能开发</p>
+        <p>• 定期同步远程仓库</p>
+        <p>• 合并前先拉取最新代码</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+layout: default
+---
+
+<div class="p-4">
+  <h2 class="text-xl font-bold mb-4 text-indigo-700">4.7 家用网络优化</h2>
+  
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <!-- 基础设置 -->
-    <div class="bg-gradient-to-br from-indigo-50 to-blue-50 rounded-xl shadow-lg p-6">
-      <div class="flex items-center mb-6">
-        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-indigo-500 to-blue-500 flex items-center justify-center text-white">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-gradient-to-br from-indigo-50 to-blue-50 rounded-xl shadow-lg p-4">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-500 to-blue-500 flex items-center justify-center text-white">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0" />
           </svg>
         </div>
-        <h3 class="text-xl font-semibold text-indigo-800 ml-4">路由器基础设置</h3>
+        <h3 class="text-lg font-semibold text-indigo-800 ml-3">路由器基础设置</h3>
       </div>
-      <div class="space-y-4">
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2">WiFi网络配置</h4>
-          <ul class="text-sm text-gray-600 space-y-1">
+      <div class="space-y-3">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 text-sm">WiFi网络配置</h4>
+          <ul class="text-xs text-gray-600 space-y-0.5">
             <li>• WiFi名称（SSID）设置</li>
             <li>• 安全密码配置</li>
             <li>• 网络加密方式选择</li>
           </ul>
         </div>
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2">频段与信道优化</h4>
-          <ul class="text-sm text-gray-600 space-y-1">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 text-sm">频段与信道优化</h4>
+          <ul class="text-xs text-gray-600 space-y-0.5">
             <li>• 2.4GHz vs 5GHz选择</li>
             <li>• 信道自动选择</li>
             <li>• 信号强度调整</li>
           </ul>
         </div>
       </div>
-      <div class="mt-6">
-        <img src="/assets/images/router-settings.png" class="rounded-lg shadow-md w-full" alt="路由器基础设置" />
+      <div class="mt-4">
+        <img src="/assets/images/router-settings.png" class="rounded-lg shadow-md w-full h-24 object-cover" alt="路由器基础设置" />
       </div>
     </div>
     <!-- 高级功能 -->
-    <div class="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl shadow-lg p-6">
-      <div class="flex items-center mb-6">
-        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center text-white">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl shadow-lg p-4">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center text-white">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
           </svg>
         </div>
-        <h3 class="text-xl font-semibold text-purple-800 ml-4">高级功能配置</h3>
+        <h3 class="text-lg font-semibold text-purple-800 ml-3">高级功能配置</h3>
       </div>
-      <div class="space-y-4">
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2">流量管理</h4>
-          <ul class="text-sm text-gray-600 space-y-1">
+      <div class="space-y-3">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 text-sm">流量管理</h4>
+          <ul class="text-xs text-gray-600 space-y-0.5">
             <li>• QoS服务质量设置</li>
             <li>• 带宽限制配置</li>
             <li>• 设备优先级管理</li>
           </ul>
         </div>
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2">安全与控制</h4>
-          <ul class="text-sm text-gray-600 space-y-1">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 text-sm">安全与控制</h4>
+          <ul class="text-xs text-gray-600 space-y-0.5">
             <li>• 访客网络设置</li>
             <li>• 家长控制功能</li>
             <li>• 防火墙规则配置</li>
           </ul>
         </div>
       </div>
-      <div class="mt-6">
-        <img src="/assets/images/advanced-settings.png" class="rounded-lg shadow-md w-full" alt="高级功能配置" />
+      <div class="mt-4">
+        <img src="/assets/images/advanced-settings.png" class="rounded-lg shadow-md w-full h-24 object-cover" alt="高级功能配置" />
       </div>
     </div>
   </div>
   <!-- IPv6配置指南 -->
-  <div class="mt-8 bg-white rounded-xl shadow-lg overflow-hidden">
-    <div class="bg-gradient-to-r from-indigo-50 to-purple-50 px-6 py-4">
-      <h3 class="text-lg font-semibold text-gray-800">IPv6配置指南</h3>
+  <div class="mt-4 bg-white rounded-xl shadow-lg overflow-hidden">
+    <div class="bg-gradient-to-r from-indigo-50 to-purple-50 px-4 py-2">
+      <h3 class="text-base font-semibold text-gray-800">IPv6配置指南</h3>
     </div>
-    <div class="p-6">
+    <div class="p-4">
       <div class="overflow-x-auto">
-        <table class="w-full">
+        <table class="w-full text-sm">
           <thead class="bg-gray-50">
             <tr>
-              <th class="px-6 py-3 text-left text-gray-700 font-semibold">步骤</th>
-              <th class="px-6 py-3 text-left text-gray-700 font-semibold">操作</th>
-              <th class="px-6 py-3 text-left text-gray-700 font-semibold">说明</th>
+              <th class="px-3 py-2 text-left text-gray-700 font-semibold">步骤</th>
+              <th class="px-3 py-2 text-left text-gray-700 font-semibold">操作</th>
+              <th class="px-3 py-2 text-left text-gray-700 font-semibold">说明</th>
             </tr>
           </thead>
           <tbody class="divide-y divide-gray-100">
             <tr>
-              <td class="px-6 py-4 text-gray-800 font-medium">检查支持</td>
-              <td class="px-6 py-4 text-gray-600">运营商咨询</td>
-              <td class="px-6 py-4 text-gray-600">确认是否支持（我校校园网已支持IPv6）</td>
+              <td class="px-3 py-2 text-gray-800 font-medium">检查支持</td>
+              <td class="px-3 py-2 text-gray-600">运营商咨询</td>
+              <td class="px-3 py-2 text-gray-600">确认是否支持（我校校园网已支持IPv6）</td>
             </tr>
             <tr>
-              <td class="px-6 py-4 text-gray-800 font-medium">系统设置</td>
-              <td class="px-6 py-4 text-gray-600">开启IPv6</td>
-              <td class="px-6 py-4 text-gray-600">在系统网络设置中启用</td>
+              <td class="px-3 py-2 text-gray-800 font-medium">系统设置</td>
+              <td class="px-3 py-2 text-gray-600">开启IPv6</td>
+              <td class="px-3 py-2 text-gray-600">在系统网络设置中启用</td>
             </tr>
             <tr>
-              <td class="px-6 py-4 text-gray-800 font-medium">路由器配置</td>
-              <td class="px-6 py-4 text-gray-600">IPv6转发</td>
-              <td class="px-6 py-4 text-gray-600">在路由器后台设置中配置</td>
+              <td class="px-3 py-2 text-gray-800 font-medium">路由器配置</td>
+              <td class="px-3 py-2 text-gray-600">IPv6转发</td>
+              <td class="px-3 py-2 text-gray-600">在路由器后台设置中配置</td>
             </tr>
             <tr>
-              <td class="px-6 py-4 text-gray-800 font-medium">测试连接</td>
-              <td class="px-6 py-4 text-gray-600">测试网站</td>
-              <td class="px-6 py-4 text-gray-600">验证IPv6连接是否正常</td>
+              <td class="px-3 py-2 text-gray-800 font-medium">测试连接</td>
+              <td class="px-3 py-2 text-gray-600">测试网站</td>
+              <td class="px-3 py-2 text-gray-600">验证IPv6连接是否正常</td>
             </tr>
           </tbody>
         </table>
@@ -584,92 +715,92 @@ layout: default
 layout: default
 ---
 
-<div class="p-8">
-  <h2 class="text-2xl font-bold mb-6 text-teal-700">4.8 局域网应用</h2>
+<div class="p-4">
+  <h2 class="text-xl font-bold mb-4 text-teal-700">4.8 局域网应用</h2>
   
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
     <!-- Windows文件共享 -->
-    <div class="bg-gradient-to-br from-teal-50 to-cyan-50 rounded-xl shadow-lg p-6">
-      <div class="flex items-center mb-6">
-        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-teal-500 to-cyan-500 flex items-center justify-center text-white">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-gradient-to-br from-teal-50 to-cyan-50 rounded-xl shadow-lg p-4">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-teal-500 to-cyan-500 flex items-center justify-center text-white">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
           </svg>
         </div>
-        <h3 class="text-lg font-semibold text-teal-800 ml-4">文件共享</h3>
+        <h3 class="text-base font-semibold text-teal-800 ml-3">文件共享</h3>
       </div>
-      <div class="space-y-3">
-        <div class="bg-white/60 rounded-lg p-3 text-sm">
-          <div class="font-medium text-gray-800 mb-1">共享文件夹创建</div>
-          <div class="text-gray-600">设置共享目录权限</div>
+      <div class="space-y-2">
+        <div class="bg-white/60 rounded-lg p-2 text-sm">
+          <div class="font-medium text-gray-800 mb-1 text-xs">共享文件夹创建</div>
+          <div class="text-gray-600 text-xs">设置共享目录权限</div>
         </div>
-        <div class="bg-white/60 rounded-lg p-3 text-sm">
-          <div class="font-medium text-gray-800 mb-1">权限设置</div>
-          <div class="text-gray-600">用户访问控制</div>
+        <div class="bg-white/60 rounded-lg p-2 text-sm">
+          <div class="font-medium text-gray-800 mb-1 text-xs">权限设置</div>
+          <div class="text-gray-600 text-xs">用户访问控制</div>
         </div>
-        <div class="bg-white/60 rounded-lg p-3 text-sm">
-          <div class="font-medium text-gray-800 mb-1">网络发现</div>
-          <div class="text-gray-600">自动发现设备</div>
+        <div class="bg-white/60 rounded-lg p-2 text-sm">
+          <div class="font-medium text-gray-800 mb-1 text-xs">网络发现</div>
+          <div class="text-gray-600 text-xs">自动发现设备</div>
         </div>
       </div>
-      <div class="mt-6">
-        <img src="/assets/images/u=3729409556,267898855&fm=30&app=106&f=JPEG.jpg" class="rounded-lg shadow-md w-full" alt="文件共享" />
+      <div class="mt-3">
+        <img src="/assets/images/u=3729409556,267898855&fm=30&app=106&f=JPEG.jpg" class="rounded-lg shadow-md w-full h-20 object-cover" alt="文件共享" />
       </div>
     </div>
     <!-- 网络打印机 -->
-    <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl shadow-lg p-6">
-      <div class="flex items-center mb-6">
-        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-blue-500 to-indigo-500 flex items-center justify-center text-white">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl shadow-lg p-4">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-500 to-indigo-500 flex items-center justify-center text-white">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
           </svg>
         </div>
-        <h3 class="text-lg font-semibold text-blue-800 ml-4">网络打印</h3>
+        <h3 class="text-base font-semibold text-blue-800 ml-3">网络打印</h3>
       </div>
-      <div class="space-y-3">
-        <div class="bg-white/60 rounded-lg p-3 text-sm">
-          <div class="font-medium text-gray-800 mb-1">打印机共享</div>
-          <div class="text-gray-600">设备共享配置</div>
+      <div class="space-y-2">
+        <div class="bg-white/60 rounded-lg p-2 text-sm">
+          <div class="font-medium text-gray-800 mb-1 text-xs">打印机共享</div>
+          <div class="text-gray-600 text-xs">设备共享配置</div>
         </div>
-        <div class="bg-white/60 rounded-lg p-3 text-sm">
-          <div class="font-medium text-gray-800 mb-1">驱动安装</div>
-          <div class="text-gray-600">网络驱动配置</div>
+        <div class="bg-white/60 rounded-lg p-2 text-sm">
+          <div class="font-medium text-gray-800 mb-1 text-xs">驱动安装</div>
+          <div class="text-gray-600 text-xs">网络驱动配置</div>
         </div>
-        <div class="bg-white/60 rounded-lg p-3 text-sm">
-          <div class="font-medium text-gray-800 mb-1">打印队列</div>
-          <div class="text-gray-600">任务管理监控</div>
+        <div class="bg-white/60 rounded-lg p-2 text-sm">
+          <div class="font-medium text-gray-800 mb-1 text-xs">打印队列</div>
+          <div class="text-gray-600 text-xs">任务管理监控</div>
         </div>
       </div>
-      <div class="mt-6">
-        <img src="/assets/images/u=765800986,2897228034&fm=3074&app=3074&f=PNG.png" class="rounded-lg shadow-md w-full" alt="网络打印机" />
+      <div class="mt-3">
+        <img src="/assets/images/u=765800986,2897228034&fm=3074&app=3074&f=PNG.png" class="rounded-lg shadow-md w-full h-20 object-cover" alt="网络打印机" />
       </div>
     </div>
     <!-- NAS存储 -->
-    <div class="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl shadow-lg p-6">
-      <div class="flex items-center mb-6">
-        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center text-white">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl shadow-lg p-4">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center text-white">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2m-2-4h.01M17 16h.01" />
           </svg>
         </div>
-        <h3 class="text-lg font-semibold text-purple-800 ml-4">NAS存储</h3>
+        <h3 class="text-base font-semibold text-purple-800 ml-3">NAS存储</h3>
       </div>
-      <div class="space-y-3">
-        <div class="bg-white/60 rounded-lg p-3 text-sm">
-          <div class="font-medium text-gray-800 mb-1">设备选择</div>
-          <div class="text-gray-600">硬件配置方案</div>
+      <div class="space-y-2">
+        <div class="bg-white/60 rounded-lg p-2 text-sm">
+          <div class="font-medium text-gray-800 mb-1 text-xs">设备选择</div>
+          <div class="text-gray-600 text-xs">硬件配置方案</div>
         </div>
-        <div class="bg-white/60 rounded-lg p-3 text-sm">
-          <div class="font-medium text-gray-800 mb-1">存储配置</div>
-          <div class="text-gray-600">RAID阵列设置</div>
+        <div class="bg-white/60 rounded-lg p-2 text-sm">
+          <div class="font-medium text-gray-800 mb-1 text-xs">存储配置</div>
+          <div class="text-gray-600 text-xs">RAID阵列设置</div>
         </div>
-        <div class="bg-white/60 rounded-lg p-3 text-sm">
-          <div class="font-medium text-gray-800 mb-1">远程访问</div>
-          <div class="text-gray-600">外网访问配置</div>
+        <div class="bg-white/60 rounded-lg p-2 text-sm">
+          <div class="font-medium text-gray-800 mb-1 text-xs">远程访问</div>
+          <div class="text-gray-600 text-xs">外网访问配置</div>
         </div>
       </div>
-      <div class="mt-6">
-        <img src="/assets/images/u=3473075622,3790293538&fm=253&fmt=auto&app=138&f=JPEG.webp" class="rounded-lg shadow-md w-full" alt="NAS存储" />
+      <div class="mt-3">
+        <img src="/assets/images/u=3473075622,3790293538&fm=253&fmt=auto&app=138&f=JPEG.webp" class="rounded-lg shadow-md w-full h-20 object-cover" alt="NAS存储" />
       </div>
     </div>
   </div>
@@ -679,112 +810,112 @@ layout: default
 layout: default
 ---
 
-<div class="p-8">
-  <h2 class="text-2xl font-bold mb-6 text-red-700">4.9 网络安全防护</h2>
+<div class="p-4">
+  <h2 class="text-xl font-bold mb-4 text-red-700">4.9 网络安全防护</h2>
   
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <!-- 基础防护 -->
-    <div class="bg-gradient-to-br from-red-50 to-orange-50 rounded-xl shadow-lg p-6">
-      <div class="flex items-center mb-6">
-        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-red-500 to-orange-500 flex items-center justify-center text-white">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-gradient-to-br from-red-50 to-orange-50 rounded-xl shadow-lg p-4">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-red-500 to-orange-500 flex items-center justify-center text-white">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
           </svg>
         </div>
-        <h3 class="text-xl font-semibold text-red-800 ml-4">基础防护措施</h3>
+        <h3 class="text-lg font-semibold text-red-800 ml-3">基础防护措施</h3>
       </div>
-      <div class="space-y-4">
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2 flex items-center">
-            <div class="w-6 h-6 rounded-full bg-red-100 flex items-center justify-center mr-2">
+      <div class="space-y-3">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 flex items-center text-sm">
+            <div class="w-5 h-5 rounded-full bg-red-100 flex items-center justify-center mr-2">
               <div class="w-2 h-2 rounded-full bg-red-500"></div>
             </div>
             密码安全
           </h4>
-          <p class="text-sm text-gray-600">修改默认密码，使用强密码策略</p>
+          <p class="text-xs text-gray-600">修改默认密码，使用强密码策略</p>
         </div>
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2 flex items-center">
-            <div class="w-6 h-6 rounded-full bg-orange-100 flex items-center justify-center mr-2">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 flex items-center text-sm">
+            <div class="w-5 h-5 rounded-full bg-orange-100 flex items-center justify-center mr-2">
               <div class="w-2 h-2 rounded-full bg-orange-500"></div>
             </div>
             固件更新
           </h4>
-          <p class="text-sm text-gray-600">定期更新设备固件，修复安全漏洞</p>
+          <p class="text-xs text-gray-600">定期更新设备固件，修复安全漏洞</p>
         </div>
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2 flex items-center">
-            <div class="w-6 h-6 rounded-full bg-yellow-100 flex items-center justify-center mr-2">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 flex items-center text-sm">
+            <div class="w-5 h-5 rounded-full bg-yellow-100 flex items-center justify-center mr-2">
               <div class="w-2 h-2 rounded-full bg-yellow-500"></div>
             </div>
             防火墙启用
           </h4>
-          <p class="text-sm text-gray-600">开启防火墙，阻止恶意访问</p>
+          <p class="text-xs text-gray-600">开启防火墙，阻止恶意访问</p>
         </div>
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2 flex items-center">
-            <div class="w-6 h-6 rounded-full bg-amber-100 flex items-center justify-center mr-2">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 flex items-center text-sm">
+            <div class="w-5 h-5 rounded-full bg-amber-100 flex items-center justify-center mr-2">
               <div class="w-2 h-2 rounded-full bg-amber-500"></div>
             </div>
             设备监控
           </h4>
-          <p class="text-sm text-gray-600">监控连接设备，发现异常连接</p>
+          <p class="text-xs text-gray-600">监控连接设备，发现异常连接</p>
         </div>
       </div>
-      <div class="mt-6">
-        <img src="/assets/images/part-00282-3434.jpg" class="rounded-lg shadow-md w-full" alt="基础防护" />
+      <div class="mt-4">
+        <img src="/assets/images/part-00282-3434.jpg" class="rounded-lg shadow-md w-full h-24 object-cover" alt="基础防护" />
       </div>
     </div>
     <!-- 高级安全 -->
-    <div class="bg-gradient-to-br from-slate-50 to-gray-50 rounded-xl shadow-lg p-6">
-      <div class="flex items-center mb-6">
-        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-slate-500 to-gray-500 flex items-center justify-center text-white">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-gradient-to-br from-slate-50 to-gray-50 rounded-xl shadow-lg p-4">
+      <div class="flex items-center mb-4">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-slate-500 to-gray-500 flex items-center justify-center text-white">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
           </svg>
         </div>
-        <h3 class="text-xl font-semibold text-slate-800 ml-4">高级安全功能</h3>
+        <h3 class="text-lg font-semibold text-slate-800 ml-3">高级安全功能</h3>
       </div>
-      <div class="space-y-4">
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2 flex items-center">
-            <div class="w-6 h-6 rounded-full bg-slate-100 flex items-center justify-center mr-2">
+      <div class="space-y-3">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 flex items-center text-sm">
+            <div class="w-5 h-5 rounded-full bg-slate-100 flex items-center justify-center mr-2">
               <div class="w-2 h-2 rounded-full bg-slate-500"></div>
             </div>
             VPN服务器
           </h4>
-          <p class="text-sm text-gray-600">搭建私有VPN，安全远程访问</p>
+          <p class="text-xs text-gray-600">搭建私有VPN，安全远程访问</p>
         </div>
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2 flex items-center">
-            <div class="w-6 h-6 rounded-full bg-gray-100 flex items-center justify-center mr-2">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 flex items-center text-sm">
+            <div class="w-5 h-5 rounded-full bg-gray-100 flex items-center justify-center mr-2">
               <div class="w-2 h-2 rounded-full bg-gray-500"></div>
             </div>
             入侵检测
           </h4>
-          <p class="text-sm text-gray-600">实时监控网络异常行为</p>
+          <p class="text-xs text-gray-600">实时监控网络异常行为</p>
         </div>
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2 flex items-center">
-            <div class="w-6 h-6 rounded-full bg-zinc-100 flex items-center justify-center mr-2">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 flex items-center text-sm">
+            <div class="w-5 h-5 rounded-full bg-zinc-100 flex items-center justify-center mr-2">
               <div class="w-2 h-2 rounded-full bg-zinc-500"></div>
             </div>
             访问控制
           </h4>
-          <p class="text-sm text-gray-600">精细化权限管理，访问时段控制</p>
+          <p class="text-xs text-gray-600">精细化权限管理，访问时段控制</p>
         </div>
-        <div class="bg-white/60 rounded-lg p-4">
-          <h4 class="font-medium text-gray-800 mb-2 flex items-center">
-            <div class="w-6 h-6 rounded-full bg-neutral-100 flex items-center justify-center mr-2">
+        <div class="bg-white/60 rounded-lg p-3">
+          <h4 class="font-medium text-gray-800 mb-1 flex items-center text-sm">
+            <div class="w-5 h-5 rounded-full bg-neutral-100 flex items-center justify-center mr-2">
               <div class="w-2 h-2 rounded-full bg-neutral-500"></div>
             </div>
             日志审计
           </h4>
-          <p class="text-sm text-gray-600">记录网络活动，安全事件追踪</p>
+          <p class="text-xs text-gray-600">记录网络活动，安全事件追踪</p>
         </div>
       </div>
-      <div class="mt-6">
-        <img src="/assets/images/v2-16bbc19ca6b6885d086f60464cc687e3_1440w.png" class="rounded-lg shadow-md w-full" alt="高级安全功能" />
+      <div class="mt-4">
+        <img src="/assets/images/v2-16bbc19ca6b6885d086f60464cc687e3_1440w.png" class="rounded-lg shadow-md w-full h-24 object-cover" alt="高级安全功能" />
       </div>
     </div>
   </div>
