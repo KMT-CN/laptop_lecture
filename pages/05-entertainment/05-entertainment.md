@@ -436,26 +436,222 @@ layout: default
 
 
 ---
-
-### 生活建议
-
-- 运动健身计划
-- 作息时间表
-- 社交活动安排
-- 兴趣培养建议
-
-
-
+layout: default
 ---
 
-## 总结与展望
+<div class="p-8">
+  <h2 class="text-3xl font-bold mb-8 text-center bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">生活建议</h2>
+  
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <!-- 健康管理 -->
+    <div class="bg-gradient-to-br from-green-50 to-emerald-50 rounded-2xl shadow-lg p-6 border border-green-200/50">
+      <div class="flex items-center mb-6">
+        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-green-500 to-emerald-500 flex items-center justify-center text-white">
+          <carbon:activity class="text-2xl" />
+        </div>
+        <h3 class="text-xl font-semibold text-green-800 ml-4">健康管理</h3>
+      </div>
+      <div class="space-y-4">
+        <div class="flex items-start">
+          <carbon:time class="text-green-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">作息时间表</h4>
+            <p class="text-sm text-gray-600">23:00 睡觉，7:00 起床，保证8小时睡眠</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <carbon:pedestrian class="text-green-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">运动健身计划</h4>
+            <p class="text-sm text-gray-600">每周3次有氧运动，2次力量训练</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <carbon:restaurant class="text-green-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">饮食习惯</h4>
+            <p class="text-sm text-gray-600">规律三餐，多吃蔬果，少熬夜吃宵夜</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 社交发展 -->
+    <div class="bg-gradient-to-br from-blue-50 to-cyan-50 rounded-2xl shadow-lg p-6 border border-blue-200/50">
+      <div class="flex items-center mb-6">
+        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-blue-500 to-cyan-500 flex items-center justify-center text-white">
+          <carbon:group class="text-2xl" />
+        </div>
+        <h3 class="text-xl font-semibold text-blue-800 ml-4">社交发展</h3>
+      </div>
+      <div class="space-y-4">
+        <div class="flex items-start">
+          <carbon:events class="text-blue-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">社交活动安排</h4>
+            <p class="text-sm text-gray-600">参加社团、志愿活动，扩展人际圈</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <carbon:collaborate class="text-blue-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">团队协作</h4>
+            <p class="text-sm text-gray-600">积极参与小组项目，培养沟通能力</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <carbon:friendship class="text-blue-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">人际维护</h4>
+            <p class="text-sm text-gray-600">定期联系朋友，保持良好关系</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 个人成长 -->
+    <div class="bg-gradient-to-br from-purple-50 to-pink-50 rounded-2xl shadow-lg p-6 border border-purple-200/50">
+      <div class="flex items-center mb-6">
+        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center text-white">
+          <carbon:growth class="text-2xl" />
+        </div>
+        <h3 class="text-xl font-semibold text-purple-800 ml-4">个人成长</h3>
+      </div>
+      <div class="space-y-4">
+        <div class="flex items-start">
+          <carbon:trophy class="text-purple-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">目标设定</h4>
+            <p class="text-sm text-gray-600">制定短期和长期目标，定期评估进度</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <carbon:book class="text-purple-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">持续学习</h4>
+            <p class="text-sm text-gray-600">每月读1-2本书，关注行业动态</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <carbon:chart-line class="text-purple-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">技能提升</h4>
+            <p class="text-sm text-gray-600">每季度学习一项新技能或工具</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 兴趣爱好 -->
+    <div class="bg-gradient-to-br from-orange-50 to-red-50 rounded-2xl shadow-lg p-6 border border-orange-200/50">
+      <div class="flex items-center mb-6">
+        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-orange-500 to-red-500 flex items-center justify-center text-white">
+          <carbon:favorite class="text-2xl" />
+        </div>
+        <h3 class="text-xl font-semibold text-orange-800 ml-4">兴趣培养</h3>
+      </div>
+      <div class="space-y-4">
+        <div class="flex items-start">
+          <carbon:music class="text-orange-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">艺术爱好</h4>
+            <p class="text-sm text-gray-600">音乐、绘画、摄影等艺术形式</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <carbon:game-console class="text-orange-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">娱乐放松</h4>
+            <p class="text-sm text-gray-600">适度游戏、观影，平衡学习压力</p>
+          </div>
+        </div>
+        <div class="flex items-start">
+          <carbon:earth class="text-orange-500 text-xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h4 class="font-semibold text-gray-800">探索体验</h4>
+            <p class="text-sm text-gray-600">尝试新的活动、旅行、文化体验</p>
+          </div>
+        </div>
+      </div>
+    </div>
 
-### 知识整理
-- 核心要点回顾
-- 实用技巧总结
-- 学习资源推荐
+  </div>
+  
+  <!-- 底部提示 -->
+  <div class="mt-8 bg-gradient-to-r from-indigo-50 to-purple-50 rounded-xl p-6 text-center">
+    <h4 class="text-lg font-semibold text-gray-800 mb-2">💡 温馨提示</h4>
+    <p class="text-gray-600">
+      平衡是关键 - 学习重要，但身心健康同样重要。制定适合自己的生活节奏，享受大学时光！
+    </p>
+  </div>
+</div>
 
-### 持续学习
-- 技术更新跟进
-- 新工具探索
-- 个人成长建议
+---
+layout: default
+class: "text-center"
+---
+
+<div class="h-full flex flex-col justify-center">
+  <h1 class="text-4xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 to-purple-500">总结与展望</h1>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-8 text-left">
+    <!-- Column 1: Knowledge Consolidation -->
+    <div class="bg-white/70 backdrop-blur-sm p-6 rounded-2xl shadow-lg border border-gray-200/50">
+      <h2 class="text-2xl font-semibold mb-6 flex items-center text-indigo-700">
+        <carbon:summary-kpi class="mr-3 text-3xl" />
+        知识整理
+      </h2>
+      <ul class="space-y-4">
+        <li class="flex items-start">
+          <carbon:list-checked class="text-green-500 text-2xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h3 class="font-semibold text-gray-800">核心要点回顾</h3>
+            <p class="text-sm text-gray-600">硬件选购、系统优化、必备软件、安全意识。</p>
+          </div>
+        </li>
+        <li class="flex items-start">
+          <carbon:tool-kit class="text-blue-500 text-2xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h3 class="font-semibold text-gray-800">实用技巧总结</h3>
+            <p class="text-sm text-gray-600">快捷键、文件管理、备份策略、网络排错。</p>
+          </div>
+        </li>
+        <li class="flex items-start">
+          <carbon:document class="text-yellow-500 text-2xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h3 class="font-semibold text-gray-800">学习资源推荐</h3>
+            <p class="text-sm text-gray-600">善用搜索引擎、官方文档、优质技术社区和博客。</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <!-- Column 2: Continuous Learning -->
+    <div class="bg-white/70 backdrop-blur-sm p-6 rounded-2xl shadow-lg border border-gray-200/50">
+      <h2 class="text-2xl font-semibold mb-6 flex items-center text-purple-700">
+        <carbon:growth class="mr-3 text-3xl" />
+        持续学习
+      </h2>
+      <ul class="space-y-4">
+        <li class="flex items-start">
+          <carbon:update-now class="text-cyan-500 text-2xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h3 class="font-semibold text-gray-800">技术更新跟进</h3>
+            <p class="text-sm text-gray-600">关注科技媒体 (如 少数派, The Verge)、订阅 Newsletter。</p>
+          </div>
+        </li>
+        <li class="flex items-start">
+          <carbon:search-locate class="text-orange-500 text-2xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h3 class="font-semibold text-gray-800">新工具探索</h3>
+            <p class="text-sm text-gray-600">浏览 Product Hunt, GitHub Trending 发现前沿工具。</p>
+          </div>
+        </li>
+        <li class="flex items-start">
+          <carbon:arrow-up-right class="text-red-500 text-2xl mr-3 mt-1 flex-shrink-0" />
+          <div>
+            <h3 class="font-semibold text-gray-800">个人成长建议</h3>
+            <p class="text-sm text-gray-600">构建个人项目、参与开源、分享知识、建立影响力。</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+</div>
